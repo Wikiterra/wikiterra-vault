@@ -1,0 +1,7 @@
+*.mp4
+*.odt
+*.pdf
+.obsidian/
+.trash/
+favicon.svg
+zen/
