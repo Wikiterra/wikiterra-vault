@@ -13,6 +13,7 @@ Existen varios modelos que describen el comportamiento del Sol, principalmente s
 Ambos modelos tienen puntos que son verdad, pero desde un punto de vista general el modelo heliocéntrico es incorrecto, mientras el modeo geocéntrico es el más realista con posibles faltas de explicaiones.
 
 ## El Sol Geocéntrico
+
 El Sol es un objeto luminoso que arroja luz sobre la Tierra, se deplaza en círculos sobre la el plano terrestre. Su periodo de rotación es de 24 horas de media según la latitud, el Sol sale por el Este y se pone por el Oeste.
 El efecto de las distinas estaciones sobre la superficie terrestre se debe a la variación de la altura del Sol respecto del plano, el Sol realiza un analema solar.
 
@@ -22,6 +23,7 @@ Para entender el comportamiento del Sol, hay que entender el comportamiento de l
 
 
 ## Analema solar
+
 El analema solar es una figura con forma de infinito (ocho acostado) que puede observarse cuando se saca fotografías al Sol a la misma hora todos los días durante su ciclo completo, es decir un año 365 días y 6 horas.
 
 

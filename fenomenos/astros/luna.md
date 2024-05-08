@@ -4,9 +4,13 @@ dg-publish: true
 
 # La Luna
 
-La Luna es una luminaria que rota encima del plano terrestre de Este a Oeste en torno al norte. 
+La Luna es una luminaria de la Tierra junto al So,  rota encima del plano terrestre de Este a Oeste en torno al polo norte.
 
-La Luna tiene un ciclo de 27 días, con las fases lunares creciente y decreciente.
+Se cree que está formada por kriptón en estado de plasma ionizado que interactua con el Sol negro situado en el centro de la plano terrestre, generando ese toroide elctromagnético que los mantiene en suspensión.
+
+Está situada a una altura de entre 6000 y 8000 kilómetros entre las capas y distintas densidades atmoféricas.
+
+La Luna tiene un ciclo de 27 días, con las fases lunares creciente y decreciente, donde parte de la Luna se pone en sombra y parte ilumina. A la parte en sombra también se le conoce como luz de cenicienta "Lumen cinereum".
 
 La Luna es uno de los misterios más grandes que hay, de primeras es un objeto que emite luz de carácter diferente a la del Sol, no es un reflejo del Sol porque se pueden observar ambos a la vez y su sombra no es producida por la superficie terrestre.
 
@@ -17,7 +21,7 @@ Es el cuerpo encargado de generar las mareas debido a su comportamiento electrom
 ## Datos
 - Luz: Luz propia
 - Radio: 60 Km
-- Altura: 7000 Km
+- Altura: 6000 - 8000 Km
 
 
 ## Analema lunar
