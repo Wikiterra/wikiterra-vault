@@ -1,10 +1,9 @@
 ---
 dg-publish: true
 ---
-# Canales Tierra Plana
+# Listado de canales de Tierra Plana
 
 ## Canales YouTube
-- [| Escuela de Conocimiento | - YouTube](https://www.youtube.com/@escueladelconocimiento)
 - [Alarma mundial - YouTube](https://www.youtube.com/@AlarmaMundial)
 - [ArFLAT Experimentación Científica - YouTube](https://www.youtube.com/c/ArFLATExperimentaci%C3%B3nCient%C3%ADfica)
 - [Canal Dacoria](https://www.youtube.com/@CanalDacoria)
@@ -12,6 +11,7 @@ dg-publish: true
 - [DwayneKellum - YouTube](https://www.youtube.com/@DwayneKellum/)
 - [EN HONOR A LA VERDAD - YouTube](https://www.youtube.com/c/ENHONORALAVERDADfelipecanepa)
 - [Edith Tierra Plana - YouTube](https://www.youtube.com/c/EdithTierraPlana)
+- [Escuela de Conocimiento - YouTube](https://www.youtube.com/@escueladelconocimiento)
 - [Exponiendo la Verdad - YouTube](https://www.youtube.com/@Exponiendolaverdad)
 - [Flat fingers - YouTube](https://www.youtube.com/@flatfingerswithsantosbonac8435)
 - [Flat Earth TV - YouTube](https://www.youtube.com/@flatearthtv71)
