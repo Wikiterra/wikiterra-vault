@@ -12,7 +12,7 @@ Esta radiación es percibida por el ojo humano y permite la visión de los objet
 
 > [!infobox]+ Collapsible Infobox
 > # La luz
-> ![[luz.jpg|cover small]]
+> ![luz-profundidad.jpg|cover small](https://i.imgur.com/TXN5k7g.jpeg)
 > Buceador yendo hacia un haz de luz desde las profundidades del mar.
 
 

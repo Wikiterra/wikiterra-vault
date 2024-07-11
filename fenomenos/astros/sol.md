@@ -8,10 +8,9 @@ El Sol es la principal figura que marca la diferencia del tiempo, marca los día
 
 Desde las antiguas civilizaciones ha sido una figura de adoración, de culto y con una carga ritualista muy importante.
 
-
 > [!infobox]+ Collapsible Infobox
 > # El Sol
-> ![[sol-arbol.jpg|cover small]]
+> ![sol-arbol.jpg|cover small](https://i.imgur.com/z0GdgBg.jpeg)
 > ###### Datos
 > | Dato |  Medida |
 > | ---- | ---- |

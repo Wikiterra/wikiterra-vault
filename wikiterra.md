@@ -9,7 +9,8 @@ dg-publish: true
 
 Navega por el panel lateral izquierdo para leer los artículos.
 
-![[plasma-moon-map.png|320x320]]
+![320x320](https://i.imgur.com/MvTLlds.png)
+
 
 ## Filosofía
 
