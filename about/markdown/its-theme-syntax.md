@@ -1,4 +1,4 @@
-# Markdown ITS Theme
+# ITS Theme (markdown syntax)
 
 ### Alternate Color Schemes
 - [x] Schools Days

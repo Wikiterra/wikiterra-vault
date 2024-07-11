@@ -1,5 +1,5 @@
 ---
-dg-publish:
+dg-publish: false
 ---
 # Tecnología
 

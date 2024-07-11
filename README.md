@@ -1,1 +1,3 @@
-Vault de Wikiterra para editar wikiterra.xyz
+<!-- READM para repositorio de GitHub -->
+
+Vault de Wikiterra en formato markdown para obsidian, desplegado en la web https://wikitera.github.io/

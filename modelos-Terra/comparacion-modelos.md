@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 ---
 # Comparación de los modelos de La Tierra
 
