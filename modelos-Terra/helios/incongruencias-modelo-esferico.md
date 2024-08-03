@@ -91,4 +91,4 @@ Cuanto mayor sea el radio del aspa más rápido va el extremo, ya que la la velo
 
 Por esto si la Tierra rotase debería haber variaciones en las corrientes de aire y movimiento de los oceános a medida que te alejas del radio. "La velocidad tangencial **en el ecuador tendría que ser de aproximadamente 1670 km/h mientras que en los polos de 0 km/h**."
 
-Sin embargo la rotación terrestre no se percibe bajo ninguna circunstancia y todos la [[experimentos-listado]] mecánicos que han intentado medirla, han dado como resutlado la estaticidad o inmovilidad de la superficie terrestre.
+Sin embargo la rotación terrestre no se percibe bajo ninguna circunstancia y todos la [[experimentos-astronomicos]] mecánicos que han intentado medirla, han dado como resutlado la estaticidad o inmovilidad de la superficie terrestre.

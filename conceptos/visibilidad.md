@@ -5,7 +5,7 @@ dg-publish: true
 # La visibilidad
 
 
-![visibilidad-aeropuerto|banner](https://i.imgur.com/XDTjGaJ.jpeg)
+![visibilidad-aeropuerto|banner](https://i.imgur.com/XDTjGaJ.jpg)
 
 La visibilidad es el alcance máximo de la luz para un medio determinado sobre un observador en concreto.
 
@@ -28,3 +28,10 @@ En condiciones óptimas atmosféricas para un observador y objeto con alcance lu
 | 0.01 Km           | 300 Km           | 120 Km      |
 
 > Si el observador alcanza a ver al objeto, viceversa también se cumpliría a no ser que haya un espejo de por medio o menos luz en la zona observada. Por ejemplo un niño mirando por una ventana puede ver un montaña a lo lejos pero desde la montaña puede no verse al niño porque la ventana haga reflejo o porque haya poca luz dentro de la habitación.
+
+
+## Comparación visibilidad a distintas alturas
+
+Foto 1
+
+Foto 2

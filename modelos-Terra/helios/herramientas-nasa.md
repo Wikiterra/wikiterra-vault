@@ -1,9 +1,7 @@
 ---
 dg-publish: false
 ---
-## NASA Herramientas
-
-Herramientas públicas que utiliza la NASA.
+## Herramientas públicas que utiliza la NASA
 
 - [11ty](https://www.11ty.dev/)
 - [b4x](https://www.b4x.com/)

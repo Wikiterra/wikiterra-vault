@@ -10,7 +10,7 @@ Desde las antiguas civilizaciones ha sido una figura de adoración, de culto y c
 
 > [!infobox]+ Collapsible Infobox
 > # El Sol
-> ![sol-arbol.jpg|cover small](https://i.imgur.com/z0GdgBg.jpeg)
+> ![sol-arbol.jpg|cover small](https://i.imgur.com/z0GdgBg.jpg)
 > ###### Datos
 > | Dato |  Medida |
 > | ---- | ---- |

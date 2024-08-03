@@ -1,13 +1,18 @@
-## Template de DigitalGarden
+---
+dg-publish: false
+---
 
-La plantilla o template original para generar web estáticas desde Obsidian es [digitalgarden](https://github.com/oleeskild/digitalgarden) que usa 11Ty como generador sitios estáticos (SSG).
+# Template de DigitalGarden
 
-> Loas archivos markdown escritos en Obsidian (`archivo.md`) se añade dentro de `src/site/notes/`. 
+La plantilla o template original para generar la web estática desde Obsidian es [digitalgarden](https://github.com/oleeskild/digitalgarden) usando 11Ty como generador sitios estáticos (SSG).
+
+> Los archivos markdown escritos en Obsidian (`archivo.md`) se añaden dentro de `src/site/notes/`. 
 > Mientras las imágenes van en `src/site/img/user/ruta-absoluta-imagen`, aunque es recomendable no sobrecargar la web con imágenes para mejorar la optimización y rendimiento.
 
 Árbol de directorios y archivos de digitalgarden:
 ```sh
-# Comando para generar tree: tree -aL 3 --prune -I 'node_modules' 
+# Comando para generar tree:
+# tree -aL 3 --prune -I 'node_modules' 
 .
 ├── dist
 │   ├── 404
