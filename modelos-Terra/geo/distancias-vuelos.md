@@ -1,10 +1,14 @@
+---
+dg-publish: true
+---
+
 # Distancias de vuelos
 
 Un argumento que se suele usar para decir que las distancias en el modelo plano son erróneas es la variación de tiempos en los vuelos que hacen la ruta entre Auckland, Nueva Zelanda - Santiago de Chile y viceversa.
 
 Los tiempos son los siguientes:
-- Auckland - Santiago (AKL - SCL), dirección Oeste - Este: entre 10 horas 50 min y 11 horas.
-- Santiago - Auckland (SCL - AKL), dirección Este - Oeste: entre 12 horas 10 min y 12 horas y 35 min.
+- Auckland - Santiago (AKL - SCL), dirección Oeste - Este: entre 650 ~ 710 minutos.
+- Santiago - Auckland (SCL - AKL), dirección Este - Oeste: entre 730 ~ 755 minutos.
 
 - ¿A que se debe esta variación en las rutas aéreas de algo más de una hora? 
 Esta variación de tiempos es principalmente por un factor las corrientes de chorro del sur. Esta corriente circula de Oeste a Este y van desde los 90 Km/h hasta incluso los 398 Km/h de velocidad, además circula desde los 9 Km hasta los 12 Km, los aviones vuelan de media 33,000 pies unos 11 Km justo la franja de esta corriente. Esta corriente supone un impulso en el trayecto Auckland Santiago y reduce la velocidad en el trayecto Santiago - Auckland. Por eso los vuelos tienen una diferencia de una hora.

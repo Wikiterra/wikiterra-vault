@@ -1,9 +1,8 @@
 ---
 dg-publish: false
 ---
-## Narrativa desastres
+## Narrativa de desastres contadas por los medios de comunicación
 
-Ya varias veces recuerdo haberme espantado con:
 - La tierra gira un segundo más rápido un día y alcanza su máxima velocidad
 - En 2012 iba a haber una apocalipsis
 - Había tanto gas de invernadero concentrado sobre el ecuador que en el mapeo satelital ya figuraba en rojo

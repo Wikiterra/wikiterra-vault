@@ -1,3 +1,7 @@
+---
+dg-publish: false
+---
+
 # Formula
 
 > [!summary] Formula
