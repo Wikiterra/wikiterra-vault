@@ -2,12 +2,11 @@
 dg-publish: false
 ---
 
-# ITS Theme (render)
+# [ITS Theme](https://publish.obsidian.md/slrvb-docs/ITS+Theme/ITS+Theme)
 
 ## Callouts
 
 ### Asides
-
 > [!aside|clean right]
 > Removes styling from aside
 
@@ -20,12 +19,16 @@ dg-publish: false
 
 ### Captions
 
+> [!caption] Caption centered
+> ![obsidian](https://obsidian.md/images/obsidian-logo-gradient.svg)
+> Obsidian logo
+
 > [!caption|left] Floats to the left
 > ![obsidian](https://obsidian.md/images/obsidian-logo-gradient.svg)
 > Obsidian logo
 
 > [!caption|right] Floats to the right
-> ![obsidian](https://obsidian.md/images/obsidian-logo-gradient.svg)
+> ![obsidian icon](https://obsidian.md/images/obsidian-logo-gradient.svg)
 > Obsidian logo
 
 ### Cards
@@ -43,7 +46,6 @@ dg-publish: false
 > ![hexagono|sban htiny ctr](https://upload.wikimedia.org/wikipedia/commons/1/1a/06-L_Hex%C3%A1gono.svg)
 
 ### Checks
-
 > [!checks]
 > - **GROUP**
 > 	- Next to checkboxes
@@ -68,15 +70,11 @@ dg-publish: false
 > 	- [ ] %% %%
 
 ### Colors
-
 > [!recite|color-blue]
 
 > [!recite|background-blue]
 
-> [!recite|background-color-blue]
-
 ### Columns
-
 > [!column]
 >> [!info] Column 1
 >> Some text
@@ -119,11 +117,11 @@ dg-publish: false
 ### Kanban
 > [!kanban]+
 > - [[Link|Lane 1 Title]]
-> 	- ![](https://upload.wikimedia.org/wikipedia/commons/4/45/Triangle_illustration.svg)
-> 	- [Triángulo](https://es.wikipedia.org/wiki/Tri%C3%A1ngulo)
+> 	- ![Triangle - Wikimedia](https://upload.wikimedia.org/wikipedia/commons/4/45/Triangle_illustration.svg)
+> 	- [Triángulo - Wikipedia](https://es.wikipedia.org/wiki/Tri%C3%A1ngulo)
 > - [[Link|Lane 2 Title]]
-> 	![hexagono](https://upload.wikimedia.org/wikipedia/commons/1/1a/06-L_Hex%C3%A1gono.svg)
-> 	- [Hexágono](https://es.wikipedia.org/wiki/Hex%C3%A1gono)
+> 	![Hexagon - Wikimedia](https://upload.wikimedia.org/wikipedia/commons/1/1a/06-L_Hex%C3%A1gono.svg)
+> 	- [Hexágono - Wikipedia](https://es.wikipedia.org/wiki/Hex%C3%A1gono)
 > - Text
 > 	- [ ] Text
 
@@ -204,8 +202,3 @@ dg-publish: false
 > [!timeline|t-r t-7] **Title** *Subtitle*
 > Spaced timeline piece
 
-
-## References
-
-- [ITS Theme Documentation](https://publish.obsidian.md/slrvb-docs/ITS+Theme/ITS+Theme)
-- [Callout+Adjustments - ITS Theme Documentation](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callout+Adjustments)

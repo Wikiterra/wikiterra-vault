@@ -4,16 +4,16 @@ dg-publish: true
 
 # La Luna
 
-La Luna es una luminaria de la Tierra junto al Sol, rota encima del plano terrestre de Este a Oeste en torno al polo norte.
+La Luna es una luminaria de la Tierra junto al Sol, rota encima del plano terrestre de Este a Oeste en torno a Polaris como el resto del firmamento, pero su rotación no sigue el mismo ritmo.
 
-Se cree que está formada por kriptón en estado de plasma ionizado que interactua con el Sol negro situado en el centro de la plano terrestre, generando ese toroide elctromagnético que los mantiene en suspensión.
+Se composición se estima en kriptón en estado de plasma ionizado que interactúa con el Sol negro situado en el centro de la plano terrestre, generando ese toroide elctromagnético que mantiene en suspensión y movimiento a los astros.
 
-Está situada a una altura de entre 6000 y 8000 kilómetros entre las capas y distintas densidades atmoféricas.
+Está situada a una altura de entre 6000 y 8000 kilómetros entre las capas y distintas densidades atmosféricas.
 
 > [!infobox]+ Collapsible Infobox
 > # La Luna
 > ![luna-ojo|cover small](https://i.imgur.com/9mGOiSO.jpg)
-> La Luna llena vista entre el hueco de un pared rocosa, con personas caminando por debajo.
+> Luna llena vista entre el hueco de un pared rocosa, con caminantes por debajo.
 > ###### Datos
 > | Datos |  Distancia |
 > | ---- | --------------- |
@@ -40,7 +40,6 @@ Es el cuerpo encargado de generar las mareas debido a su comportamiento electrom
 El analema lunar es la forma que dibuja la Luna cuando es fotografiada todos los días a la misma hora durante su ciclo completo.
 
 
+### Selenelion
 
-
-
-
+El **selenelion** es un fenómeno astronómico poco común que ocurre durante un eclipse lunar total, cuando tanto el Sol como la Luna son visibles al mismo tiempo en diferentes partes del cielo. Esto contradice el modelo heliocéntrico ya que según este modelo el Sol, la Tierra y la Luna están alineados en línea recta, y ambas luminarias se pueden llegar a ver en distintas partes del cielo.

@@ -23,19 +23,7 @@ Below are sections of research and study by a variety of authors showing many de
 That the earth is flat was the common belief in all parts of the known world prior to the theory of heliocentrism (approx 500 years ago) and was still a hot topic well into the 50's (see the downloads section). It was not until a person by the name of Copernicus, a Jesuit trained astronomer, came along that the concept of a heliocentric universe was popularized. Heliocentricity is, and has always been, only a theory based on no observable facts or the means of verification of evidence supporting the theory.  
 It is not a coincidense that a disproportionate amount of Jesuits are astronomers and "star gazers" to this day. The "big bang" theory is the brain child of a Jesuit named [Georges Henri Joseph Lematre](https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre). Rome is on record as supporting this and the theory of evolution as well, even claiming that evolution is the only way God could have created everything. Rome also supports the concept of extraterrestial life. All of this is against what the Bible teaches.  
 See below for the history of the Jesuit Order.
-### Shahzwar Bugti videos
-- [Fake World Reality 1](https://www.cda.pl/video/2422367c1)
-- [Fake World Reality 2](https://www.cda.pl/video/2422352f5)
-- [Fake World Reality 3](https://www.cda.pl/video/24223434d)
-- [Fake World Reality 4](https://www.cda.pl/video/242234052)
-- [Fake World Reality 5](https://www.cda.pl/video/24223257b)
-- [Fake World Reality 6A](https://www.cda.pl/video/24223165e)
-- [Fake World Reality 6B](https://www.youtube.com/watch?v=R_diHAiXt3Q)
-- [Fake World Reality 7](https://www.cda.pl/video/2422298f0)
-- [Fake World Reality 8](https://www.cda.pl/video/2422289fe)
-- [Fake World Reality 9](https://www.cda.pl/video/24222861a)
-- [Fake World Reality 10](https://www.cda.pl/video/2422283c2)
-- [Fake World Reality 11](https://www.cda.pl/video/242223853)
+
 ### Various author flat earth videos
 - [The Ultimate Litmus Test](https://www.bitchute.com/video/bSzE373D0ozI/)
 - [The Global Lie](https://www.bitchute.com/video/3MKzisNWGswJ/)
@@ -101,6 +89,7 @@ See below for the history of the Jesuit Order.
 - [Sun & Moon orbit Earth](https://www.youtube.com/watch?v=IK7Q76HNb4Y&t=200)
 - [The Sun & Moon Mystery](https://www.youtube.com/watch?v=7BAYBwH0mcI&feature=youtu.be)
 - [Lunar Eclipse](https://www.bitchute.com/video/ci4rgKJd6TCf/)
+
 ### Truth is Stranger Than Fiction     
 - [To Pastors Against F E](https://www.youtube.com/watch?v=wYQsf5dAVVQ&feature=youtu.be)
 - [They mock Flat Earth,but](https://www.bitchute.com/video/Qs6lbaIsn1U/)
@@ -120,12 +109,14 @@ See below for the history of the Jesuit Order.
 - [Flat Earth is no Psyop](https://www.youtube.com/watch?v=jD-E2RqcLAg)
 - [Globe,Gnostic Religion?](https://www.youtube.com/watch?v=192zUlUCs2w)
 - [The Cult of Pythagoras](https://www.youtube.com/watch?list=PLykEf23rbpPOgTLI0pxZKgrR_V2tzD72P&v=9AdtSF-TpB0)
+
 ### ODD TV
-- [F E in 5 Minutes](https://www.bitchute.com/video/lzMBa9a0D9Hk/)
+- [Flat Earth in 5 Minutes](https://www.bitchute.com/video/lzMBa9a0D9Hk/)
 - [Lower earth orbit only](https://www.bitchute.com/video/CuHo9RLY0CGZ/)
 - [Flat Earth Timeline](https://www.bitchute.com/video/UYQW2SUu8UVF/)
 - [The Fisheye Lens](https://www.bitchute.com/video/bvHVoUPijvSX/)
 - [The Case for Flat Earth](https://www.bitchute.com/video/cWQLRLaLFpVk/)
+
 ### Flat Earth Pastors
 - [Bible DOES say Flat Earth (Odle)](https://www.bitchute.com/video/xTT25oQkT0jt/)
 - [Wake Up Christians(Odle)](https://www.youtube.com/watch?v=GJCLHMk0OWs)
@@ -134,13 +125,14 @@ See below for the history of the Jesuit Order.
 - [The Flat Earth Part 2 (DB)](https://www.youtube.com/watch?v=FYBwQiQqe6A)
 - [Gov't docs prove FE(Odle)](https://www.bitchute.com/video/VZf2O4oNL71W/)
 
-  ### Rob Skiba videos
+### Rob Skiba videos
 - [Why flat Earth is important...](https://www.bitchute.com/video/xTgReDMvJJhK/)
 - [The Flat Earth trump card](https://www.bitchute.com/video/QFhZ2q0CbmCx/)
 - [FE key to decript Bk of Enoch](https://www.youtube.com/watch?v=ZImfw4kBkC8)
 - [Vaulted Dome of the Earth](https://www.youtube.com/watch?v=xVcp2XXJCgM)
 - [World Photo Record-FE](https://www.youtube.com/watch?v=1QG7hBdVhFY)
 - [No ships Over Curve](https://www.youtube.com/watch?v=nYMiGyEbjIg)
+
 ### Videos by Eric Dubay
 - [The History of Flat Earth](https://www.bitchute.com/video/M5L5PBVisNvc/)
 - [The Greatest Lie of All Time](https://www.bitchute.com/video/IjXaYgr5QOuf/)
@@ -156,6 +148,7 @@ See below for the history of the Jesuit Order.
 - [The Earth Plane](https://www.bitchute.com/video/OCBLY9PP7Lh9/)
 - [FE facts vs theory](https://www.bitchute.com/video/SzcP0WKMGg6F/)
 - [A Modern Day IQ Test](https://www.bitchute.com/video/YZRJUOLOFLCv/)
+
 ### Faking Space
 - [NASA faking Space](https://www.youtube.com/watch?v=_XjOGVHVC8Q)
 - [Faking ISS part 1](https://www.youtube.com/watch?v=3NCgnZCG68Y)
@@ -172,6 +165,7 @@ See below for the history of the Jesuit Order.
 - [Moon Mars Hoaxes](https://www.youtube.com/watch?v=afYcxy_JadY)
 - [NASA scamming you](https://www.youtube.com/watch?v=aiek3osTOKg&fbclid=IwAR36Xh7Uvf10YN7wQvfZ_eqHVc2YNBIdAmW1vGfgjC_n_cWK9g8MdcSfJ6Y&app=desktop)
 - [Vacuum of Space](https://www.youtube.com/watch?v=TyKnfMsgjV0)
+
 ### Bibles videos
 - [Battle of the Bibles ](https://www.youtube.com/watch?v=tNv-zzpIwBs)
 - [Changing the Word ](https://www.youtube.com/watch?v=RqBEuxGY7DI)
@@ -180,6 +174,7 @@ See below for the history of the Jesuit Order.
 - [Schnoebelen agrees, FLAT EARTH](https://www.youtube.com/watch?v=1OwPIVYTGt0)
 - [History of the KJV](https://www.youtube.com/watch?v=XzUyWOGCiS4&list=PLlYthH4xF10j2U5A6JHRAJFYYdA6RvtnB)
 - [1599 Geneva Bible PDF](https://www.veritasmc.org/downloads/1599genevabible.pdf)
+
 ### Study Aids
 - [Flat Earth Bible Verses](http://www.veritasmc.org/febibleverses.html)- [Pillars/4 Corners of the earth](https://www.veritasmc.org/earthpillars.html)
 - [The Book of Enoch](http://www.bibliotecapleyades.net/enoch/enoch.html)- [The Book of Jasher](http://www.sacred-texts.com/chr/apo/jasher/)
@@ -191,6 +186,7 @@ See below for the history of the Jesuit Order.
 The Bible fully supports the flat earth from cover to cover (see Study Aids above).
 Bible believing Christians are left with no other option but to break out of the heliocentric lie that has been holding a grip on us for our whole lives.
 2Cor 10:3-4 - tells us to tear down false strongholds. The Bible is not ambiguous, it is crystal clear.
+
 ### The Lie: The Freemasons, and the Jesuit
 Well, why would such a lie be perpetrated, by whom and for what ultimate purpose? Most of these questions have been answered in the above video presentations, but there is yet one big piece of the puzzle missing, and that is what we will address next.
 
@@ -217,6 +213,7 @@ This will lead to the abolition of the UN as we know it and it's being replaced 
 - [Jesuits C.Ref part 2](https://www.youtube.com/watch?v=KAJotSFHow8)
 - [Hidden Agendas, Freemasons](https://www.youtube.com/watch?v=J5THWJdAjUM)
 - [Where SS info came from](https://www.youtube.com/watch?v=VN9rBKOdO1o)
+
 ### The Jesuit Vatican: steeped in the occult
 - [Pope Francis Declares Lucifer As God](https://www.bitchute.com/video/5QlcFr7PL3rI/)
 - [Pope Calls Jesus and the Bible a LIE!](https://www.youtube.com/watch?v=MMAPNYZg2ug)
@@ -242,6 +239,7 @@ This is a 2 part documentary on Martin Luther. Through it you can see what Rome'
 
 One world religion being formulated into reality: [Vatican's ecumenical movement](https://www.bitchute.com/video/i8kypcQGQoGt/)
 [One World Religion](https://www.youtube.com/watch?v=4K0E4DoRUqk&fbclid=IwAR1POrmyIJDcqt-5L-evSvsQlnXPW1xdvqPDDul6v86Fk1y_JSnW3onTMdg)
+
 ### Johnny Cirucci & MigMag videos. [J.Cirucci website](http://johnnycirucci.com/)         
 - [Jesuit Helio Deception](https://www.bitchute.com/video/xGoRCDtxp39V/)
 - [Illuminati Unmasked 1](https://www.youtube.com/watch?v=CJKR2v4L0qw)
@@ -255,6 +253,7 @@ One world religion being formulated into reality: [Vatican's ecumenical movement
 - [Todays' Roman Empire](https://www.youtube.com/watch?v=Ct84N110WCM)
 - [Zio-Jesuit connections](https://www.youtube.com/watch?v=ssSJwcMOiDA)
 ## Flat Earth Music
+
 ### Conspiracy Music Guru
 - [Alex's site](http://conspiracymusicguru.com/).               
 - [No Photographs of Earth!](https://www.bitchute.com/video/WNIFW2Hvgbya/)
@@ -266,11 +265,13 @@ One world religion being formulated into reality: [Vatican's ecumenical movement
 - [Space is Fake](https://www.bitchute.com/video/Bu6BrNxcwiPx/)
 - [Dont let them take your mind](https://www.bitchute.com/video/kV6UzGhrHdsX/)
 - [I Told You So](https://www.bitchute.com/video/wunfAHFU2z2A/)
+
 ### Amber Plaster
 - [HELLO Flat Earth](https://www.youtube.com/watch?v=7OM5YMNr9Ck)
 - [Star Trails](https://www.youtube.com/watch?v=Lyy9SbR5LW8)
 - [Earth Not A Globe](https://www.youtube.com/watch?v=kl3kA60gDA8)
 - [Geocentric](https://www.youtube.com/watch?v=q9syywtUHkk&feature=share&fbclid=IwAR1JggPkCscmfAKUg_ovIz-JuS-rdc0h-7xqf2C5RbwgoUxBNBAdethL7-s)
+
 ### Indiejestion
 - [The Earth Is Flat](https://www.youtube.com/watch?v=nfMdJ58Qa0E)
 - [Mind Control to Major Tom](https://www.youtube.com/watch?v=164YdQvRDgE)

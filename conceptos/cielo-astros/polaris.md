@@ -6,9 +6,17 @@ dg-publish: true
 
 **Polaris**, también conocida como la **Estrella Polar** o **Polaris Alfa Ursae Minoris**, es una estrella notable en el cielo nocturno y es reconocida por ser la estrella más brillante en la constelación de la Osa Menor (Ursa Minor). Polaris desempeña un papel importante en la navegación astronómica, ya que marca aproximadamente la posición del Polo Norte Celeste en el cielo.
 
-Polaris es la única estrelle en el firmamento que no gira, se encuentra en el centro del domo y todas las estrellas giran en torno a ella de Este a Oeste
+Polaris es la única estrelle en el firmamento que no gira, se encuentra en el centro del [[domo-terrestre]] y todas las estrellas giran en torno a ella de Este a Oeste.
 
 Debido a su proximidad al Polo Norte Celeste, Polaris ha sido utilizada durante siglos como una estrella guía para la navegación. En las latitudes nortes, apunta en dirección al norte verdadero y es útil para determinar la dirección hacia el Polo Norte.
+
+> [!infobox]+ Polaris
+> # Polaris visto desde Stellarium posicionado sobre El Teide en Canarias
+> ![polaris-star|cover small](https://i.imgur.com/r0HTAYh.png)
+
+Polaris solo es visible en las latitudes Nortes más allá del ecuador, en las zonas más al sur no es visible ya que queda oculto por perspectiva. Sin embargo el equivalente a Polaris en el sur es Crux o la La Cruz del Sur, una constelación del cielo de las latitudes del sur que permanece más o menos fija en el firmamento.
+
+El ángulo de inclinación de Polaris sobre la eclíptica representa la latitud sobre el plano terrestre, es decir si Polaris se visualiza a 21º sobre el suelo estamos situados a 21º al Norte, siendo 0º el mínimo el Ecuador y el máximo 90º N (zona polar ártica). En las latitudes más al sur de Ecuador se pierde Polaris y se visualiza la constelación de [[crux|La Cruz del Sur]].
 
 ### Historia y Uso en la Navegación
 
