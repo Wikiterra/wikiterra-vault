@@ -6,7 +6,7 @@ dg-publish: true
 
 Las estrellas del cielo son objetos luminosos, hay dos tipos de estrellas:
 
-1. **Estrellas errantes o móviles:** Estas son estrellas que tienen un movimiento aparente respecto al movimiento del domo celeste. En contraste con las estrellas fijas, que se mueven a la par que el domo. Los "planetas" son estrellas errantes.
+1. **Estrellas errantes o móviles:** Estas son estrellas que tienen un movimiento aparente respecto al movimiento del domo celeste. En contraste con las estrellas fijas, que se mueven a la par que el firmamento o domo. Los "planetas" son estrellas errantes.
 
 2. **Estrellas fijas o estrellas fijas:** son estrellas que se mueven con el domo y no hacen órbitas propias.
 

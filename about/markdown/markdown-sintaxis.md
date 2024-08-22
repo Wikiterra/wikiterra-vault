@@ -5,7 +5,7 @@ dg-publish: false
 # Markdown
 Markdown es un lenguaje de marcado simple que permite formatear texto fácilmente en un editor de texto plano, utilizando una sintaxis mínima y fácil de leer.
 
-El renderizado de Markdown se realiza con un motor de Javascript que lo convierte en formato web, HTML para la estructura y CSS para los estilos. Y este formato web se muestra gracias a un navegador web.
+El renderizado de Markdown se realiza con un motor de JavaScript que lo convierte en formato web, HTML para la estructura y CSS para los estilos. Y este formato web se muestra gracias a un navegador web.
 
 > Obsidian es un Google Chrome "disfrazado", ya que utiliza electronJS un framework que combina chromium + nodeJS, para crear crear aplicaciones multiplataforma.
 
@@ -119,16 +119,16 @@ Este es un ejemplo de cómo agregar una nota al pie de página[^1].
 ![[formula#^eq]] - Insertar frase del documento
 ```
 
-![[formula]]
+![[katex-formula]]
 
-![[formula#Explanation]]
+![[katex-formula#Explanation]]
 
 
-![[formula#^eq]]
+![[katex-formula#^eq]]
 
 
 #### Imágenes (.jpg, .png, .svg)
-> [!note] Recomendable insertarlos desde CDN o servidor de imágenes.
+> [!warning] No es recomendable insertar imágenes directamente, para eso usar un CDN o servidor externo.
 ```markdown
  ![GitHub Logo|300](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
@@ -138,7 +138,7 @@ Este es un ejemplo de cómo agregar una nota al pie de página[^1].
 ![GitHub Logo|300](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 #### Audios (mp3, .wav, .ogg)
-> [!note] No es recomendable insertarlos directamente.
+> [!warning] No es recomendable insertar audio directamente, mejor usar fuentes externas.
 ```html
 <audio controls>  
   <source src="../recursos/audio/flute.mp3" type="audio/mp3">
@@ -146,11 +146,14 @@ Este es un ejemplo de cómo agregar una nota al pie de página[^1].
 </audio>
 
 ![[flute.mp3]]
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1860933699"></iframe>
 ```
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1860933699"></iframe>
 
 #### Videos (.mp4, .webm)
-> [!warning] No es recomendable insertar videos directamente como un archivo por temas de rendimiento, mejor incrustando video externo.
+> [!warning] No es recomendable insertar videos directamente, mejor enlazar a un video externo.
 >
 > Usando el generador estático HUGO, no se puede en MD es necesario usar HTML. 
 
@@ -159,10 +162,10 @@ Este es un ejemplo de cómo agregar una nota al pie de página[^1].
 
 ![[Bunny.mp4]]
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1AeihtlrAkU?si=ZmtKlUeIU_LYpgSr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="520" height="315" src="https://www.youtube-nocookie.com/embed/1AeihtlrAkU?si=ZmtKlUeIU_LYpgSr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1AeihtlrAkU?si=ZmtKlUeIU_LYpgSr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="500" height="315" src="https://www.youtube-nocookie.com/embed/1AeihtlrAkU?si=ZmtKlUeIU_LYpgSr"></iframe>
 
 
 ### Enlaces o links
@@ -182,7 +185,7 @@ Este es un ejemplo de cómo agregar una nota al pie de página[^1].
 
 ### Bloques de referencia
 ```markdown
-> Si he visto más lejos es por estar de pie sobre los hombros de Gigantes.
+> Si he visto más lejos es por estar de pie sobre hombros de Gigantes.
 ```
 
 > Si he visto más allá es porque me he subido a hombros de gigantes.

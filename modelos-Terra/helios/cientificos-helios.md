@@ -10,3 +10,5 @@ dg-publish: false
 - George Lamaître
 - Stephen Hawking
 - Albert Einstein
+
+![](https://i.imgur.com/ruqMexY.jpeg)

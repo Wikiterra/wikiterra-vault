@@ -3,6 +3,7 @@
 *.pdf
 .obsidian/
 .trash/
-favicon.svg
 themes/
 zen/
+favicon.svg
+ToDo.md
