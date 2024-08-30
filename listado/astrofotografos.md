@@ -9,7 +9,7 @@ dg-publish: true
 - [Stéphane Guisard]()
 - [Embajadores de ESO](https://www.eso.org/public/outreach/partnerships/photo-ambassadors/)
 - [Bartosz Wojczyński - ArtUniverse](https://artuniverse.eu/)
-- https://www.instagram.com/urosfink/
-- https://stevenilsen.no/
-- https://belindashi.com/
+- [Uros Fink](https://www.instagram.com/urosfink/)
+- [Steven Ilsen](https://stevenilsen.no/)
+- [Belindashi](https://belindashi.com/)
 

@@ -48,7 +48,8 @@ dg-publish: true
 - Joseph Holden 
 - Lady blount 
 - Leo Ferrari 
-- Miles Grant 
+- Miles Grant
+- Nikola Tesla
 - Orlando Ferguson 
 - Paul Fisher 
 - Paul Kruger 
@@ -67,6 +68,3 @@ dg-publish: true
 - William Edgell 
 - William Thomas Wiseman 
 - William Warren 
-
-## Conocidos
-- Nikola Tesla
