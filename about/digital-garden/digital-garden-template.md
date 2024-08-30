@@ -1,7 +1,3 @@
----
-dg-publish: false
----
-
 # Template de DigitalGarden
 
 La plantilla o template original para generar la web estática desde Obsidian es [digitalgarden](https://github.com/oleeskild/digitalgarden) usando 11Ty como generador sitios estáticos (SSG).

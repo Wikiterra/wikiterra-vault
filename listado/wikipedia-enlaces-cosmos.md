@@ -1,12 +1,12 @@
 ---
-dg-publish: true
+dg-publish: false
 ---
 
 # Artículos de Wikipedia del cosmos
 
 ## Categorías y portales de Wikipedia
-* [Category Astronomy](https://en.wikipedia.org/wiki/Category:Astronomy)
-* [Category Astrophysics](https://en.wikipedia.org/wiki/Category:Astrophysics)
+* [Category: Astronomy](https://en.wikipedia.org/wiki/Category:Astronomy)
+* [Category: Astrophysics](https://en.wikipedia.org/wiki/Category:Astrophysics)
 * [Category: Classical mechanics](https://en.wikipedia.org/wiki/Category:Classical_mechanics)
 * [Category: Physics experiments](https://en.wikipedia.org/wiki/Category:Physics_experiments)
 - [Portal: Physics](https://en.wikipedia.org/wiki/Portal:Physics)

@@ -4,7 +4,7 @@ dg-publish: true
 
 # La Tierra
 
-La Tierra o 'The Earth' es el lugar donde habitan los seres humanos, animales, plantas está constituida por zona terrestre y zona marina. La tierra sobresale por encima del agua, y tiene multitud de formas montañas, cuevas, valles, volcanes, La tierra proviene del fondo terrestre, del subsuelo y es la que al salir a superficie forma la orografía.
+La Tierra o 'The Earth' es el conjunto donde habitan los seres vivos humanos, animales, plantas está constituida por zona terrestre y zona marina. La tierra sobresale por encima del agua, y tiene multitud de formas montañas, cuevas, valles, volcanes, La tierra proviene del fondo terrestre, del subsuelo y es la que al salir a superficie forma la orografía.
 
 > [!infobox]+ Collapsible Infobox
 > # Antigua concepción hebrea del mundo
@@ -30,6 +30,9 @@ La Tierra es un sistema cerrado que alverga las condiciones ideales para la vida
 ## Representación
 
 La superficie vista desde arriba sin efectos ópticos y objetos que impidan su visión se representaría algo parecido a un círculo rodeado por la Antártida el continente más alto en promedio y en el centro el polo Norte.
+
+![](https://i.imgur.com/zJeES5Q.png)
+
 
 ## Quote
 
