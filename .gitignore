@@ -2,7 +2,10 @@
 *.odt
 *.pdf
 .trash/
+.obsidian/
 themes/
 zen/
+.obsidian/plugins/digitalgarden/data.json
+.obsidian/workspace.json
 favicon.svg
 ToDo.md
