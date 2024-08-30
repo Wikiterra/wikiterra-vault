@@ -3,6 +3,7 @@
 *.pdf
 .trash/
 .obsidian/
+.obsidian
 themes/
 zen/
 .obsidian/plugins/digitalgarden/data.json
