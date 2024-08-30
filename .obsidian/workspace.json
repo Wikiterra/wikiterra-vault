@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "af9adefe66ab8560",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b3926d2bedf4670",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afd2df36e7cb33e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas/media-programacion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49fb42f4866cab31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ToDo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eabb083de64241dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a053b76ad45e4d93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b012845aa3522c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa5943dc933fb656",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "truth wiki",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1b52697d279b42f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "right": {
+    "id": "6419fe015b9aff07",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ed42fdd7ae97761",
+        "type": "tabs",
+        "dimension": 35.51724137931034,
+        "children": [
+          {
+            "id": "e12d5854bf3d036d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notas/media-programacion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3bea76f3bee83d9f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ad895c5321ded5b5",
+        "type": "tabs",
+        "dimension": 64.48275862068965,
+        "children": [
+          {
+            "id": "d39bfafee3b74dcb",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "notas/media-programacion.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3414744101388281,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "open-vscode:VSCode": false
+    }
+  },
+  "active": "afd2df36e7cb33e3",
+  "lastOpenFiles": [
+    "ToDo.md",
+    "notas/media-programacion.md",
+    "wolverine-and-the-x-men.S1E15-dome.mp4",
+    "experimentos/experimentos-astronomicos.md",
+    "experimentos/medicion-alturas.md",
+    "modelos-Terra/tierra-esferica-vs-tierra-plana.md",
+    "modelos-Terra/modelos-Terra.md",
+    "modelos-Terra/modelo-geo-tierra-plana.md",
+    "modelos-Terra/modelo-heliocentrico.md",
+    "listado/canales-tp.md",
+    "listado/astrofotografos.md",
+    "listado/famosos-tp.md",
+    "listado/cientificos-tp.md",
+    "listado/cientificos-helios.md",
+    "listado/masones.md",
+    "listado/true-earth-wiki.md",
+    "listado/wikis-tp.md",
+    "listado/wikipedia-enlaces-cosmos.md",
+    "listado/nasa-herramientas.md",
+    "zen/proyectos.md",
+    "wikiterra.md",
+    "README.md",
+    "conceptos/tierra.md",
+    "conceptos/vacio.md",
+    "conceptos/perspectiva.md",
+    "conceptos/mapas.md",
+    "conceptos/cosmos",
+    "about/digital-garden/digital-garden-distribution.canvas",
+    "zen/pdf/ZFX_Flying_Effects.pdf",
+    "zen/pdf/Tierra-esférica.pdf",
+    "zen/pdf/Testing_Universal Gravitation_Laboratory.pdf",
+    "zen/pdf/Gravedad - Wikipedia.pdf",
+    "zen/pdf/esfera-vs-plano-mkp.pdf",
+    "zen/pdf/esfera-celeste.pdf",
+    "zen/pdf/Earth-Sheet.png",
+    "zen/pdf/Copernico y la nueva fe pitagorica.pdf",
+    "zen/pdf/calcular-radio-terrestre.pdf",
+    "zen/mindmap/midmap-reality.canvas",
+    "zen/mindmap/mindmap-luz.canvas",
+    "favicon.svg",
+    "zen/img/star-trails/star+trail+single+exposure.jpg",
+    "zen/img/star-trails/startrail.jpg",
+    "zen/img/star-trails/spain-tenerife-star-trails-over-teide-volcano-in-teide-national-park.jpg",
+    "zen/img/star-trails/star-trails-llano-de-ucanca-teide-tenerife.jpg",
+    "zen/img/star-trails/All_In_A_Spin_Star_trail.jpg",
+    "zen/img/star-trails/startrail-teide.jpg",
+    "zen/img/star-trails/star-trails.png",
+    "zen/img/star-trails/adioVnroecNkF7z2RSNDWQ-1200-80.jpg",
+    "reality-canvas/luz-mindmap.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "reality-canvas/reality-midmap.canvas"
+  ]
+}
