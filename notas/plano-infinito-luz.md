@@ -1,3 +1,8 @@
+---
+dg-publish: false
+---
+
+
 ## ¿Cómo se comparta la luz sobre un plano infinito?
 
 Imagina que estás dentro de 4 paredes de 100 metros de altura sin techo, en un suelo completamente plano hasta el infinito y con luz constante de arriba. Ahora ese cuadrado que te rodea se amplia cientos de kilómetros manteniendo su forma. ¿Qué verías? 

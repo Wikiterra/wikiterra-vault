@@ -2,7 +2,7 @@
 dg-publish: true
 ---
 
-# Wikis TIerra Plana
+# Wikis Tierra Plana
 
 - [Flat Earth - Obsidian Publish](https://publish.obsidian.md/flatearth)
 <!-- [Shane's FE Model - Obsidian Publish](https://publish.obsidian.md/shanesql/Shanes+FE+Model)-->

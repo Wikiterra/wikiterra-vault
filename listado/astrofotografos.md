@@ -12,4 +12,4 @@ dg-publish: true
 - [Uros Fink](https://www.instagram.com/urosfink/)
 - [Steven Ilsen](https://stevenilsen.no/)
 - [Belindashi](https://belindashi.com/)
-
+- 
