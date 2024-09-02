@@ -22,6 +22,12 @@ Kyrie Irving en un podcast presentado por sus compañeros de equipo Channing Fry
    
 Más tarde dijo que [sólo intentaba tener](https://www.theringer.com/nba/2017/9/26/16371122/kyrie-irving-flat-earth-trolling) «una conversación abierta», pero sus comentarios animaron a muchos otros deportistas a subirse al carro de la Tierra plana.
 
+## Leoanardo Dicaprio
+
+Mostrando el cuadro del Bosco El jardín de las delicias al Papa y diciendo que la Tierra es plana.
+
+
+
 ## B.o.B
 
 En 2016, el rapero B.o.B afirmó que la Tierra era plana. ¿Su [razonamiento](http://www.cnn.com/2016/01/26/entertainment/rapper-bob-earth-flat-theory/)? «No importa la altura en la que te encuentres... el horizonte siempre está a la altura de los ojos... lo siento cadetes.... Yo tampoco quería creerlo». Finalmente, el astrofísico [Neil deGrasse Tyson](https://www.cnn.com/2016/01/29/entertainment/neil-degrasse-tyson-bob-flat-earth-twitter-spat/index.html) se unió a la conversación para cerrarle la boca con «ciencia real». Pero B.o.B persistió, afirmando que el adoctrinamiento en un «sistema de creencias heliocéntrico» nos ha convertido a todos en borregos.
