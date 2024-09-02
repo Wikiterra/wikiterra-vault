@@ -21,9 +21,6 @@ Tema: ITS Theme
   "ITS@@nord": false,
   "ITS@@drwn": false,
   "ITS@@select": "pathfinder",
-  "ITS@@list-default-bullet": true,
-  "ITS@@hr-center-vertically": false,
-  "ITS@@hr-icon-font": "its",
-  "ITS@@hr-no-icon": false
+  "ITS@@list-default-bullet": true
 }
 ```
