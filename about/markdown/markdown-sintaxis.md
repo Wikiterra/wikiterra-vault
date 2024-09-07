@@ -153,20 +153,52 @@ Este es un ejemplo de cómo agregar una nota al pie de página[^1].
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1860933699"></iframe>
 
 #### Videos (.mp4, .webm)
-> [!warning] No es recomendable insertar videos directamente, mejor enlazar a un video externo.
+> [!warning] No es recomendable insertar videos localmente, mejor enlazar a un video externo.
 >
 > Usando el generador estático HUGO, no se puede en MD es necesario usar HTML. 
 
+> [!NOTE] 
+> - **YouTube**: Para incrustar videos de YouTube, utiliza un `<iframe>` o una imagen de miniatura que enlace al video.
+> - **Imgur**: Para videos alojados en Imgur, usa la etiqueta `<video>` con el enlace directo al archivo `.mp4`.
+> - **Vimeo**: Para videos de Vimeo, utiliza un `<iframe>` con los parámetros adecuados en la URL para personalizar la visualización y controlar la reproducción.
+
+
 ```html
-<video src="../recursos/video/Bunny.mp4" controls></video>
-
+<!-- No recomendado para hacer una web estática -->
 ![[Bunny.mp4]]
+<video src="../zen/audiovisual/Bunny.mp4" controls></video>
 
-<iframe width="520" height="315" src="https://www.youtube-nocookie.com/embed/1AeihtlrAkU?si=ZmtKlUeIU_LYpgSr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-```
+<!-- Se pueden usar estilos como: style="width:100%; aspect-ratio:16 / 9;" -->
 
 <iframe width="500" height="315" src="https://www.youtube-nocookie.com/embed/1AeihtlrAkU?si=ZmtKlUeIU_LYpgSr"></iframe>
 
+<a href="https://www.youtube.com/watch?v=1AeihtlrAkU" target="_blank">
+  <img src="https://img.youtube.com/vi/1AeihtlrAkU/maxresdefault.jpg" alt="Ver video en YouTube" style="width:100%; max-width:560px;">
+</a>
+
+<iframe style="width:100%; aspect-ratio:16 / 10;" frameborder="0" allowfullscreen src="https://i.imgur.com/RLiDqCP.mp4" allowfullscreen></iframe>
+
+<video style="width:100%; aspect-ratio:16 / 10;" controls>
+  <source src="https://i.imgur.com/RLiDqCP.mp4" type="video/mp4">
+  Tu navegador no soporta el formato de video.
+</video>
+
+<iframe src="https://player.vimeo.com/video/980152026" style="width:100%; aspect-ratio:16 / 10;"  allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="How to embed a video"></iframe>
+```
+
+
+<iframe width="500" height="315" src="https://www.youtube-nocookie.com/embed/1AeihtlrAkU?si=ZmtKlUeIU_LYpgSr"></iframe>
+
+<a href="https://www.youtube.com/watch?v=1AeihtlrAkU" target="_blank">
+  <img src="https://img.youtube.com/vi/1AeihtlrAkU/maxresdefault.jpg" alt="Ver video en YouTube" style="width:100%; max-width:560px;">
+</a>
+
+<video style="width:100%; aspect-ratio:16 / 10;" controls>
+  <source src="https://i.imgur.com/RLiDqCP.mp4" type="video/mp4">
+  Tu navegador no soporta el formato de video.
+</video>
+
+<iframe src="https://player.vimeo.com/video/980152026" style="width:100%; aspect-ratio:16 / 10;"  allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="How to embed a video"></iframe>
 
 ### Enlaces o links
 ```markdown
