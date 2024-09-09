@@ -7,8 +7,6 @@ zen/
 
 # npm
 node_modules/
-package.json
-package-lock.json
 
 # Obsidian
 .trash/
@@ -16,7 +14,5 @@ package-lock.json
 workspace
 workspace.json
 
-# Script for remove sensible data
+# sensible data
 .env
-.husky/
-cleanData.js
