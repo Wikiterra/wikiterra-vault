@@ -14,8 +14,6 @@ node_modules/
 # Obsidian
 .trash/
 .obsidian/plugins/digitalgarden/data.json
-workspace
-workspace.json
 
 # sensible data
 .env
