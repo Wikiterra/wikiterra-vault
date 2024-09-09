@@ -1,0 +1,28 @@
+# Ruta del archivo .env
+ENV_FILE=".env"
+
+# Ruta del archivo data.json
+JSON_FILE=".obsidian/plugins/digitalgarden/data.json"
+
+# Leer el valor de API_KEY desde el archivo .env
+if [ -f "$ENV_FILE" ]; then
+    API_KEY=$(grep -oP '^API_KEY=\K.*' "$ENV_FILE")
+else
+    echo "$ENV_FILE no encontrado."
+    exit 1
+fi
+
+# Verificar si se encontró el API_KEY
+if [ -z "$API_KEY" ]; then
+    echo "No se pudo encontrar un valor para API_KEY en $ENV_FILE"
+    exit 1
+fi
+
+# Reemplazar el valor del githubToken en el archivo JSON, sin agregarlo a Git
+echo "Restaurando githubToken en data.json con el valor de API_KEY"
+sed -i -e "s/\"githubToken\": \"[^\"]*\"/\"githubToken\": \"$API_KEY\"/" "$JSON_FILE"
+
+# Excluir el archivo data.json de ser añadido al próximo commit
+git update-index --assume-unchanged "$JSON_FILE"
+
+echo "API_KEY restaurado en .env y githubToken actualizado en data.json."
