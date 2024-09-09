@@ -12,12 +12,11 @@ package-lock.json
 
 # Obsidian
 .trash/
-.obsidian/plugins/digitalgarden/data.json
+# .obsidian/plugins/digitalgarden/data.json
 workspace
 workspace.json
 
 # Script for remove sensible data
 .env
 .husky/
-remove-sensitive-data.js
-updateConfig.js
+cleanData.js
