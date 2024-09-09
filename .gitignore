@@ -9,7 +9,7 @@ favicon.svg
 node_modules/
 
 # obsidian
-.obsidian/
+# .obsidian/
 
 # sensible data
 .env
