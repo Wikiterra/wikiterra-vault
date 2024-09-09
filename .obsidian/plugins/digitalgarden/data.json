@@ -1,6 +1,6 @@
 {
   "githubRepo": "wikiterra.github.io",
-  "githubToken": "REPLACE_WITH_ACTUAL_TOKEN",
+  "githubToken": "",
   "githubUserName": "wikiterra",
   "gardenBaseUrl": "https://wikiterra.xyz/",
   "prHistory": [],

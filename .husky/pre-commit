@@ -1,0 +1,5 @@
+# Remove token
+sed -i -e 's/"githubToken": "[^"]*"/"githubToken": ""/' .obsidian/plugins/digitalgarden/data.json
+
+# Añadir los cambios al staging
+git add .obsidian/plugins/digitalgarden/data.json
