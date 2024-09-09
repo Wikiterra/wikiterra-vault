@@ -5,11 +5,16 @@ zen/
 *.pdf
 favicon.svg
 
+# git hooks
+.husky/
+
 # npm packages
 node_modules/
+package-lock.json
+package.json
 
 # obsidian
-# .obsidian/
+.obsidian/
 
 # sensible data
 .env
