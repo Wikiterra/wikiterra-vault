@@ -6,6 +6,8 @@
 
 ### Escribir
 - [[sol-tabla-horas]]
+- [[google-earth]]
+
+### Mejorar
 - [[masoneria]]
 - [[nasa]]
-- [[google-earth]]
