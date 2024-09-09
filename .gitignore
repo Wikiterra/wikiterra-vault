@@ -5,12 +5,15 @@ zen/
 *.odt
 *.pdf
 
-# npm
+# npm packages
 node_modules/
+#.husky/
+#package-lock.json
+#package.json
 
 # Obsidian
 .trash/
-# .obsidian/plugins/digitalgarden/data.json
+.obsidian/plugins/digitalgarden/data.json
 workspace
 workspace.json
 
