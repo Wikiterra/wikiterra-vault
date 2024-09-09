@@ -1,5 +1,3 @@
-#!/bin/sh
-
 # Ruta del archivo .env
 ENV_FILE=".env"
 
