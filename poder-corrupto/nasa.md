@@ -388,17 +388,17 @@ El parche muestra la luna (¿o un cometa?) cubriendo parcialmente la tierra. Si 
 ![](https://static.miraheze.org/trueearthwiki/thumb/a/af/1986-space-shuttle-challenger-crew-3027475113.jpg/200px-1986-space-shuttle-challenger-crew-3027475113.jpg)
 Los gemelos del desastre del transbordador espacial Challenger de 1986
 
-- El ex CIA Robert David Steele dice que "la NASA no es una agencia espacial".
-- Poco antes de su muerte, el astronauta Grissom había tomado un limón grande y lo había colgado alrededor de la cápsula espacial mientras la prensa observaba. Había sugerido públicamente que el proyecto nunca podría completarse a tiempo. El hijo de Grissom acusa a la NASA de haber sido asesinado. Junto con la muerte de Grissom, otros dos AstroNOTs fueron asesinados: Ed White y Roger Chaffee. ¿Sabían algo que nosotros no sabíamos? ¿Los silenciaron?
+- El ex CIA Robert David Steele dice que "la NASA no es una agencia espacial". [^13]
+- Poco antes de su muerte, el astronauta Grissom había tomado un limón grande y lo había colgado alrededor de la cápsula espacial mientras la prensa observaba. Había sugerido públicamente que el proyecto nunca podría completarse a tiempo. El hijo de Grissom acusa a la NASA de haber sido asesinado. [^14] [^15] [^16] Junto con la muerte de Grissom, otros dos AstroNOTs fueron asesinados: Ed White y Roger Chaffee. ¿Sabían algo que nosotros no sabíamos? ¿Los silenciaron? [^17]
 
 - Allan McDonald, director del proyecto de cohetes de refuerzo de la NASA: se negó a aprobar el lanzamiento del Challenger, el Challenger explotó, expuso el encubrimiento. Más tarde se lo conoció como el ingeniero que se atrevió a decir la verdad contra todo pronóstico, falleció recientemente a los 83 años. Fue un denunciante del desastre del Challenger. Parece que a Allan no lo "eliminaron", probablemente porque su denuncia encajaba con la retórica de que el desastre del Challenger fue real y que la tripulación murió de hecho; a pesar de que varios testigos oculares vieron a la tripulación con vida y bien, algunos con nuevos nombres. [^18]
 - Se cree que James Webb, ex administrador de la NASA, desempeñó un papel en la purga de empleados LGBT+ de las listas de personal de la agencia. También ayudó a desarrollar métodos de guerra psicológica para el gobierno de Estados Unidos. [^19]
-- El ex director de la Agencia Espacial Rusa (Roscosmos), Dmitry Rogozin, hace preguntas sobre los supuestos alunizajes de la NASA. Rogozin afirmó que no logró encontrar ningún dato que lo convenciera de que el Apolo 11 y su tripulación aterrizaron en nuestro satélite natural. Dijo que los fanáticos de la NASA (amantes de los balones) y los científicos rusos rechazaron su escepticismo y lo acusaron de intentar sembrar discordia entre Washington y Moscú.
-- Un ex empleado de la NASA revela que los alunizajes fueron falsos y que la Tierra es plana.
-- Dos sustancias químicas altamente tóxicas del antiguo laboratorio de la NASA se están filtrando al río de Los Ángeles, según los organismos de control.
-- La NASA admite que nunca fueron a la Luna. 
-- Entrevista con el denunciante de la NASA Math Powerland (Matt Boylan) entre 2008 y 2011 sobre la NASA, la Antártida, la Tierra plana y más.
-- Desde la NASA hasta la CIA todo es MENTIRA. ¡Los denunciantes demuestran que la Tierra es plana y desacreditan la ciencia espacial!
+- El ex director de la Agencia Espacial Rusa (Roscosmos), Dmitry Rogozin, hace preguntas sobre los supuestos alunizajes de la NASA. Rogozin afirmó que no logró encontrar ningún dato que lo convenciera de que el Apolo 11 y su tripulación aterrizaron en nuestro satélite natural. Dijo que los fanáticos de la NASA (amantes de los balones) y los científicos rusos rechazaron su escepticismo y lo acusaron de intentar sembrar discordia entre Washington y Moscú. [^20]
+- Un ex empleado de la NASA revela que los alunizajes fueron falsos y que la Tierra es plana. [^21]
+- Dos sustancias químicas altamente tóxicas del antiguo laboratorio de la NASA se están filtrando al río de Los Ángeles, según los organismos de control. [^22]
+- La NASA admite que nunca fueron a la Luna. [^23]
+- Entrevista con el denunciante de la NASA Math Powerland (Matt Boylan) entre 2008 y 2011 sobre la NASA, la Antártida, la Tierra plana y más. [^24]
+- Desde la NASA hasta la CIA todo es MENTIRA. ¡Los denunciantes demuestran que la Tierra es plana y desacreditan la ciencia espacial! [^25]
 
 > ![](https://static.miraheze.org/trueearthwiki/thumb/8/83/NASA_harness_smartselect_20200917-123743_youtube.gif/300px-NASA_harness_smartselect_20200917-123743_youtube.gif)
 > La NASA utiliza mazos de cables para simular la gravedad
@@ -413,7 +413,7 @@ Los gemelos del desastre del transbordador espacial Challenger de 1986
 
 #### La ISS es falsa
 
-La ISS no es un estación espacial que orbita la Tierra esférica. La ISS es una tapadera más para mantener la mentira de la NASA. Opera de varias formas:
+La ISS no es un estación espacial que orbita la Tierra esférica. La ISS es una tapadera más para mantener la mentira de la NASA. Opera de varias formas: [^27] [^28] [^29] [^30] [^31] [^32] [^33]
 
 - ISS por fuera: Maqueta a gran escala con pantalla verde y CGI
 - ISS por dentro: Avión en caída libre para grabaciones con tomas de 30 a 60 segundos
@@ -426,16 +426,14 @@ La ISS no es un estación espacial que orbita la Tierra esférica. La ISS es una
 > ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/NASA_Neutral_Buoyancy_Laboratory_Astronaut_Training.jpg/300px-NASA_Neutral_Buoyancy_Laboratory_Astronaut_Training.jpg)
 > Equipo de submarinismo de la NASA
 
-La NASA "entrena" a los astronautas en una piscina con una versión a escala real de la Estación Espacial Internacional. ¿Seguramente la NASA no está simulando los paseos espaciales en una piscina?
+La NASA "entrena" a los astronautas en una piscina con una versión a escala real de la Estación Espacial Internacional. ¿Seguramente la NASA no está simulando los paseos espaciales en una piscina? [^34]
 
-Aunque ha habido muchos videos que muestran burbujas durante los videos de caminatas espaciales de la NASA en la ISS (no los videos de entrenamiento)
+Aunque ha habido muchos videos que muestran burbujas durante los videos de caminatas espaciales de la NASA en la ISS (no los videos de entrenamiento) [^35]
 
 A lo largo de los años, numerosos astronautas se han enfrentado a la terrible experiencia de que su casco se llenara de agua. En 2013, una caminata espacial tuvo que ser interrumpida después de que el astronauta de la Agencia Espacial Europea Luca Parmitano estuvo a punto de ahogarse. Un informe de la NASA que detalla el incidente decía que Parmitano se encontró con “agua que le cubría los ojos, la nariz y los oídos”.
 
 > ![](https://static.miraheze.org/trueearthwiki/thumb/c/c1/NASA_Halts_Spacewalk_after_water_leaked_into_helmet.png/300px-NASA_Halts_Spacewalk_after_water_leaked_into_helmet.png)
 > La NASA suspende una caminata espacial tras una filtración de agua en el casco
-
-¿Quizás el espacio sea líquido?
 
 ---
 
