@@ -4,6 +4,8 @@ dg-publish: false
 
 # [ITS Theme](https://publish.obsidian.md/slrvb-docs/ITS+Theme/ITS+Theme)
 
+> El **ITS Theme** es un tema para **Obsidian** diseñado para mejorar la **legibilidad** y permitir **personalización** mediante CSS. Utiliza componentes como **callouts**, estilos de carpetas, elementos como casillas, leyendas, cartas, cuadrículas, columnas, etc. con ajustes adicionales disponibles a través del plugin **Style Settings**
+
 ## Callouts
 
 ### Asides
