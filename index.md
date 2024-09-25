@@ -9,9 +9,10 @@ dg-publish: true
 
 Navega por el panel lateral izquierdo para leer los artículos.
 
+
 > [!caption]
-> ![320x320](https://i.imgur.com/MvTLlds.png)
-> Mapa político terrestre de la Luna de plasma
+> ![320](https://i.imgur.com/p6f9pFp.png)
+> Representación de onda resonante armónica, como el objetivo de esta web
 
 
 ## **Filosofía**

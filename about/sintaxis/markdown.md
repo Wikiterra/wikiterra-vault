@@ -209,10 +209,10 @@ Este es un ejemplo de cómo agregar una nota al pie de página[^1].
 [Hugo](https://gohugo.io)
 ```
 
-[[wikiterra]]
-[[wikiterra#Objetivo]]
-[[wikiterra#^intro1]]
-[[wikiterra|WikiTerra - Una wiki de nuestro cosmos]]
+[[index]]
+[[index#Objetivo]]
+[[index#^intro1]]
+[[index|WikiTerra - Una wiki de nuestro cosmos]]
 [Hugo](https://gohugo.io)
 
 ### Bloques de referencia
