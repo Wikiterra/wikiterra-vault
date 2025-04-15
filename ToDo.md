@@ -1,13 +1,16 @@
-## Tareas 
+# Tareas
 
-### Dudas
-- Principio de Arquímedes, explicacion sin la "g"
+## Dudas
+
+- Principio de Arquímedes, explicación sin la "g"
 - Explicación de Polaris y Cruz del Sur en el domo según la latitud
 
-### Escribir
+## Escribir
+
 - [[sol-tabla-horas]]
 - [[google-earth]]
 
-### Mejorar
+## Mejorar
+
 - [[masoneria]]
 - [[nasa]]
