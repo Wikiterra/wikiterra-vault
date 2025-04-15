@@ -1,8 +1,9 @@
-<!-- README para repositorio de GitHub -->
+# README
 
-Vault de Wikiterra en formato markdown para obsidian, desplegado en la web https://wikitera.github.io/
+Vault de Wikiterra en formato markdown para obsidian, desplegado en la web <https://wikitera.github.io/> usando Obsidian Digital Garden.
 
 ## Plugins de Obsidian.md
+
 - [Auto Link Title](https://obsidian.md/plugins?search=Auto%20Link%20Title#)
 - [Digital Garden](https://obsidian.md/plugins?search=Digital%20Garden#)
 - [Excalidraw](https://obsidian.md/plugins?id=obsidian-excalidraw-plugin)
@@ -11,9 +12,11 @@ Vault de Wikiterra en formato markdown para obsidian, desplegado en la web https
 - [Style Settings](https://obsidian.md/plugins?search=Style%20Settings#)
 
 ## Tema
+
 - ITS Theme
   - Style Settings con configuración:
-  ```
+
+  ```json
   {
     "ITS@@accent-color": false,
     "ITS@@slrvb-b": false,
@@ -29,5 +32,4 @@ Vault de Wikiterra en formato markdown para obsidian, desplegado en la web https
     "ITS@@list-default-bullet": true
   }
   ```
-
-
+  
