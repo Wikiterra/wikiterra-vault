@@ -2,6 +2,8 @@
 dg-publish: false
 ---
 
+Las wikis se pueden genéricamente entre **dinámica** con un servidor que se encarga de registrar los cambios de usuarios y **estática** que simplemente muestra la información.
+
 # Wiki dinámica vs Wiki estática
 
 Comparar una wiki dinámica hecha con MediaWiki versus una wiki estática escrita y generada desde Obsidian.md implica evaluar varios factores, como la facilidad de uso, la administración, las características, el rendimiento y los costos. Aquí te dejo un desglose de los pros y contras de cada opción:

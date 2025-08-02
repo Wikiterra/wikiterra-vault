@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 ---
 
 # ¿Qué es WikiTerra ?
@@ -52,4 +52,4 @@ Para más información visitar la documentación oficial, [Digital Garden Docs](
 
 ## ¿Cómo editar?
 
-Para editar la wiki consulta la sección de [[wikiterra-edicion]].
+Para editar la wiki consulta la sección de [[edicion]].

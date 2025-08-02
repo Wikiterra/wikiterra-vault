@@ -10648,6 +10648,9 @@ var ExcalidrawCompiler = class {
       if (includeExcaliDrawJs) {
         excaliDrawCode += excaliDrawBundle;
       }
+      if (excaliDrawJson.appState) {
+        excaliDrawJson.appState.zoom = { value: 1 };
+      }
       excaliDrawCode += excalidraw(
         JSON.stringify(excaliDrawJson),
         drawingId
@@ -10680,10 +10683,10 @@ var fixMarkdownHeaderSyntax = (rawHeading) => {
 };
 
 // src/utils/regexes.ts
-var FRONTMATTER_REGEX = /^\s*?---\n([\s\S]*?)\n---/g;
-var BLOCKREF_REGEX = /(\^\w+(\n|$))/g;
+var FRONTMATTER_REGEX = /^\s*?---[\r\n]([\s\S]*?)[\r\n]---/g;
+var BLOCKREF_REGEX = /(\^\w+([\r\n]|$))/g;
 var CODE_FENCE_REGEX = /`(.*?)`/g;
-var CODEBLOCK_REGEX = /```.*?\n[\s\S]+?```/g;
+var CODEBLOCK_REGEX = /```.*?[\r\n][\s\S]+?```/g;
 var EXCALIDRAW_REGEX = /:\[\[(\d*?,\d*?)\],.*?\]\]/g;
 var TRANSCLUDED_SVG_REGEX = /!\[\[(.*?)(\.(svg))\|(.*?)\]\]|!\[\[(.*?)(\.(svg))\]\]/g;
 
@@ -10999,7 +11002,7 @@ ${frontMatterString}
     const publishedFrontMatter = __spreadValues({}, publishedFrontMatterWithoutTags);
     if (fileFrontMatter) {
       const tags = (typeof fileFrontMatter["tags"] === "string" ? fileFrontMatter["tags"].split(/,\s*/) : fileFrontMatter["tags"]) || [];
-      if (fileFrontMatter["dg-home"]) {
+      if (fileFrontMatter["dg-home"] && !tags.contains("gardenEntry")) {
         tags.push("gardenEntry");
       }
       if (tags.length > 0) {
@@ -17090,7 +17093,7 @@ var CompiledPublishFile = class extends PublishFile {
 // src/compiler/replaceBlockIDs.ts
 function replaceBlockIDs(markdown) {
   const block_pattern = / \^([\w\d-]+)/g;
-  const complex_block_pattern = /\n\^([\w\d-]+)\n/g;
+  const complex_block_pattern = /[\r\n]\^([\w\d-]+)[\r\n]/g;
   const codeBlockPattern = /```[\s\S]*?```/g;
   const codeBlocks = [];
   markdown = markdown.replace(codeBlockPattern, (match2) => {
@@ -17209,6 +17212,9 @@ var GardenPageCompiler = class {
               headerPath = headerSplit.length > 1 ? `#${headerSplit[1]}` : "";
             }
             const fullLinkedFilePath = (0, import_obsidian3.getLinkpath)(linkedFileName);
+            if (fullLinkedFilePath === "") {
+              continue;
+            }
             const linkedFile = this.metadataCache.getFirstLinkpathDest(
               fullLinkedFilePath,
               file.getPath()
@@ -17255,6 +17261,9 @@ var GardenPageCompiler = class {
             transclusionMatch.indexOf("]")
           ).split("|");
           const transclusionFilePath = (0, import_obsidian3.getLinkpath)(transclusionFileName);
+          if (transclusionFilePath === "") {
+            continue;
+          }
           const linkedFile = this.metadataCache.getFirstLinkpathDest(
             transclusionFilePath,
             file.getPath()
@@ -17347,7 +17356,8 @@ ${header}
                 getGardenPathForNote(
                   linkedFile.path,
                   this.rewriteRules
-                )
+                ),
+                this.settings.slugifyEnabled
               )}`;
               embedded_link = `<a class="markdown-embed-link" href="${gardenPath}${sectionID}" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a>`;
             }
@@ -17362,6 +17372,11 @@ ${headerSection}
                 currentDepth + 1
               )(publishLinkedFile)(fileText);
             }
+            const withDvCompiledText = yield this.runCompilerSteps(
+              publishLinkedFile,
+              [this.convertDataViews]
+            )(fileText);
+            fileText = withDvCompiledText;
             transcludedText = transcludedText.replace(
               transclusionMatch,
               fileText
@@ -17390,6 +17405,9 @@ ${headerSection}
           try {
             const [imageName, size] = svg.substring(svg.indexOf("[") + 2, svg.indexOf("]")).split("|");
             const imagePath = (0, import_obsidian3.getLinkpath)(imageName);
+            if (imagePath === "") {
+              continue;
+            }
             const linkedFile = this.metadataCache.getFirstLinkpathDest(
               imagePath,
               file.getPath()
@@ -17420,6 +17438,9 @@ ${headerSection}
             const pathEnd = svg.lastIndexOf(")");
             const imagePath = svg.substring(pathStart, pathEnd);
             if (imagePath.startsWith("http")) {
+              continue;
+            }
+            if (imagePath === "") {
               continue;
             }
             const linkedFile = this.metadataCache.getFirstLinkpathDest(
@@ -17455,6 +17476,9 @@ ${headerSection}
               imageMatch.indexOf("]")
             ).split("|");
             const imagePath = (0, import_obsidian3.getLinkpath)(imageName);
+            if (imagePath === "") {
+              continue;
+            }
             const linkedFile = this.metadataCache.getFirstLinkpathDest(
               imagePath,
               file.getPath()
@@ -17481,6 +17505,9 @@ ${headerSection}
               continue;
             }
             const decodedImagePath = decodeURI(imagePath);
+            if (decodedImagePath === "") {
+              continue;
+            }
             const linkedFile = this.metadataCache.getFirstLinkpathDest(
               decodedImagePath,
               file.getPath()
@@ -17524,6 +17551,9 @@ ${headerSection}
               metaData = `${lastValue}`;
             }
             const imagePath = (0, import_obsidian3.getLinkpath)(imageName);
+            if (imagePath === "") {
+              continue;
+            }
             const linkedFile = this.metadataCache.getFirstLinkpathDest(
               imagePath,
               filePath
@@ -17579,6 +17609,9 @@ ${headerSection}
               continue;
             }
             const decodedImagePath = decodeURI(imagePath);
+            if (decodedImagePath === "") {
+              continue;
+            }
             const linkedFile = this.metadataCache.getFirstLinkpathDest(
               decodedImagePath,
               filePath
@@ -23388,11 +23421,10 @@ var ObsidianFrontMatterEngine = class {
     return __async(this, null, function* () {
       const newFrontMatter = this.getFrontMatterSnapshot();
       const content = yield this.vault.cachedRead(this.file);
-      const frontmatterRegex = /^\s*?---\n([\s\S]*?)\n---/g;
       const yaml = this.frontMatterToYaml(newFrontMatter);
       let newContent = "";
-      if (content.match(frontmatterRegex)) {
-        newContent = content.replace(frontmatterRegex, (_match) => {
+      if (content.match(FRONTMATTER_REGEX)) {
+        newContent = content.replace(FRONTMATTER_REGEX, (_match) => {
           return yaml;
         });
       } else {
@@ -27691,9 +27723,9 @@ var GithubSettings = class {
   initializeGitHubTokenSetting() {
     const desc = document.createDocumentFragment();
     desc.createEl("span", void 0, (span) => {
-      span.innerText = "A GitHub token with repo permissions. You can generate it ";
+      span.innerText = "A GitHub token with contents permissions. You can see how to generate it ";
       span.createEl("a", void 0, (link) => {
-        link.href = "https://github.com/settings/tokens/new?scopes=repo";
+        link.href = "https://dg-docs.ole.dev/advanced/fine-grained-access-token/";
         link.innerText = "here!";
       });
     });

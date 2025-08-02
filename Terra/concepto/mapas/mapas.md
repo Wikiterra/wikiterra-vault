@@ -104,6 +104,7 @@ Las proyecciones pueden afectar varias propiedades geométricas:
 ---
 
 ## Referencias
+
 - [Vídeo de TED "Por qué todos los mapas del mundo están equivocados"](https://ed.ted.com/lessons/why-every-world-map-is-wrong-kayla-wolf)
 - [Vídeo de Vox "Por qué todos los mapas del mundo están mal"](https://www.youtube.com/watch?v=kIID5FDi2JQ)
 - [The true size of](https://thetruesize.com)

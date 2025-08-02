@@ -26,3 +26,15 @@ Los cuerpos de agua están siempre nivelados, y que la gravedad no existe como u
 
 5. **Flotabilidad y densidad:**
    - La teoría de la Tierra plana reemplaza el concepto de gravedad con la idea de flotabilidad y densidad. Según esta visión, los objetos caen o suben debido a su densidad en relación con el medio que los rodea. Los objetos más densos que el aire caen, mientras que los menos densos flotan. Esta dinámica es la que mantiene todo en equilibrio sobre la superficie plana.
+
+## Hechos
+- Sombra del Teide en el mar se extiende cientos de kilómetros de forma plana
+- Objetos que deberían estar ocultos por curvatura se ven
+- No se ha visto curvatura de Las Tierra desde un avión donde se apreciaría
+- El agua macroscópicamente en reposo no se curva
+- Materiales no se atraen por su masa, los menos densos en ese medio suben y los más densos bajan.
+- Los rayos del Sol son radiales
+- La Tierra es estacionario no gira no se aprecia su aceleración, ni aviones ni en ningún componente
+- Los misiles, los torpedos, balas de Sniper no hacen correcciones por curvatura ni por giro terrestre.
+- Canales, puentes, vías del tren
+- Enormes llanuras desérticas de cientos de kilómetros, llanuras abisales en el fondo oceánico de más de mil kilómetros
