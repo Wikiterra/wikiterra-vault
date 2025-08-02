@@ -4,6 +4,7 @@ dg-publish: true
 # Incongruencias del modelo esférico
 
 El modelo esférico se basa en la confianza hacia los argumentos de autoridad y en creer que las imágenes mostradas son reales y no pueden estar falsificadas. Se fundamenta en axiomas falsos que por definición son considerados verdades absolutas sin precisar de demostración, entonces no se pueden refutar.
+
 1. "**El agua** macroscópicamente en reposo se mantiene siempre a nivel", necesitaría de una fuerza muy potente que lo mantenga unido a la superficie, la atracción gravitatoria debido a su masa no lo explica. Se han hecho experimentos a distancias largas de 80 Km donde se ha comprobado con láseres que estos no se ocultan y se siguen viendo igual. Nunca se observa un agua curvada a distancias largas, haciendo las mediciones con el ángulo de curvatura correspondiente debería curvarse a esas alturas y no se observa. Lo único que se curva es la línea del horizonte por el hecho de usar lentes de ojo de pez que deforman los objetos. Solo se observa un océano curvado en las imágenes de la NASA o agencias espaciales que muestran la curva geométrica de La Tierra a partir de los 30 Km donde con aviones o dispositivos independientes no se cumple.
 2. Para comprobar la esfericidad de la tierra no basta con ver una línea curva y decir que se trata de la curvatura terrestre, ya que podría ser el **horizonte óptico** (siempre una circunferencia) deformado por la lente de la cámara, como una lente ojo de pez. Hay varias formas de saber si la lente deforma la imagen:
 	1. Si los objetos cotidianos se ven deformados, una regla torcida, una tarjeta o el horizonte a ras de tierra curvado.
@@ -14,7 +15,7 @@ El modelo esférico se basa en la confianza hacia los argumentos de autoridad y 
 
 - Electromagnetismo:
 	- "A altas temperaturas los materiales pierden las propiedades magnéticas, sin embargo el modelo esférico defiende que hay un núcleo interno ferromagnético a altas temperaturas y presiones que genera el campo electromagnético terrestre."
-- Electromagnetismo (óptica):
+- Óptica:
 	- "El modelo esférico usa como axioma que los rayos solares inciden de forma recta y paralela sobre la superficie terrestre que con el experimento de Eratóstenes concluyen que como las sombras en dos ciudades separadas varían sobre la superficie cuando los rayos inciden verticalmente a la misma hora, se debe a que la superficie es esférica, sin embargo cuando se ven objetos que deberían estar ocultos por la curvatura terrestre oficialmente dicen que es porque los rayos solares se curvan."
 	- "La luz necesita de un medio para viajar sin embargo el modelo oficial dice que existe el vacío cosa que va en contra de la propia definición de materia."
 	- "La línea del horizonte óptico se puede curvar por un efecto de la lente (efecto ojo de pez) sin embargo se le confunde y se le llama curvatura terrestre."
@@ -56,7 +57,7 @@ Como dato oficialmente se considera que la supuesta rotación terrestre no afect
 
 Sin embargo esto es falso, si la tierra rotase no puede ser un movimiento relativo, ya que este solo se da en movimientos rectilíneas uniformes (MRU) con velocidad lineal constante. Por eso a veces se considera la aceleración de Coriolis, pero entra en contradicción con el movimiento relativo.
 
-El movimiento terrestre en el modelo heliocéntrico se describe como una suma de moviemientos traslación, rotación, nutación. Este movimiento tiene implícitas aceleraciones por lo que no puede ser considerado un movimiento relativo bajo ninguna circunstancia.
+El movimiento terrestre en el modelo heliocéntrico se describe como una suma de movimientos traslación, rotación, nutación. Este movimiento tiene implícitas aceleraciones por lo que no puede ser considerado un movimiento relativo bajo ninguna circunstancia.
 
 El movimiento circular uniforme (MCU) uniforme tiene implícitas las siguientes aceleraciones:
 - Aceleración angular, en este caso nula ya que la velocidad angular es constante.
@@ -65,23 +66,21 @@ El movimiento circular uniforme (MCU) uniforme tiene implícitas las siguientes 
 
 Por tanto en el MCU solo hay la aceleración tangencial y esta depende de la distancia al eje de giro, es decir el radio en un círculo. 
 
-Supongamos el siguiente ejemplo: dos aspas rotando con la misma velocidad angular 1 m/s (con un periodo 1 ciclo por segundo o 1 Hz, $2 \pi$ rad/s), una mide un 1 metro de largo y la otra 10 metros. ¿Cual es la velocidad tangencial en el extremo de cada aspa? ¿Coinciden?
+### Ejemplo de objetos en rotación
 
-La velocidad angular es:
-$\omega = \frac{2 \pi}{T}$
+Supongamos el siguiente ejemplo: dos aspas rotando con la misma velocidad angular de 1 ciclo por segundo o 1 Hz o $2 \pi$ rad/s. Un aspa mide un 1 metro de largo y la otra 10 metros. ¿Cual es la velocidad lineal o tangencial en el extremo de cada aspa? ¿Coinciden?
+
+La velocidad angular es: $\omega = \frac{2 \pi}{T}$
 $\omega$: velocidad angular
 T: periodo de rotación
 
-La fórmula de la velcidad tangencial es:
-$v = \omega \cdot R$
+La fórmula de la velocidad tangencial es: $v = \omega \cdot R$
 v: velocidad lineal
 $\omega$: velocidad angular
 R: radio
 
-Para el aspa de 1 metro la velocidad tangencial es:
-$v = 1 \cdot R = 1 \cdot 1 = 1 m/s$
-minetras para el aspa de 10 metros su velocidad tangencial es:
-$v = 1 \cdot R = 1 \cdot 10 = 10 m/s$
+Para el aspa de 1 metro la velocidad tangencial es: $v = 1 \cdot R = 1 \cdot 1 = 1 m/s$
+mientras para el aspa de 10 metros su velocidad tangencial es: $v = 1 \cdot R = 1 \cdot 10 = 10 m/s$
 
 La aceleración tangencial es: $\alpha_t = R \cdot \omega$
 Para el aspa de 1 m, la aceleración tangencial es de $\alpha_t = 1 m/s²$
@@ -89,6 +88,6 @@ Para el aspa de 10 m, la aceleración tangencial es de $\alpha_t = 10 m/s²$
 
 Cuanto mayor sea el radio del aspa más rápido va el extremo, ya que la la velocidad tangencial es proporcional al radio. 
 
-Por esto si la Tierra rotase debería haber variaciones en las corrientes de aire y movimiento de los oceános a medida que te alejas del radio. "La velocidad tangencial **en el ecuador tendría que ser de aproximadamente 1670 km/h mientras que en los polos de 0 km/h**."
+Por este motivo si la Tierra rotase debería haber variaciones en las corrientes de aire y movimiento de los océanos a medida que te alejas del radio. "La velocidad tangencial **en el ecuador tendría que ser de aproximadamente 1670 km/h mientras que en los polos de 0 km/h**."
 
-Sin embargo la rotación terrestre no se percibe bajo ninguna circunstancia y todos la [[experimentos-astronomicos]] mecánicos que han intentado medirla, han dado como resutlado la estaticidad o inmovilidad de la superficie terrestre.
+Sin embargo la rotación terrestre no se percibe bajo ninguna circunstancia y todos la [[experimentos-astronomicos]] mecánicos que han intentado medirla, han dado como resultado un superficie terrestre estática o inmóvil.

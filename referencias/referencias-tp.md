@@ -2,9 +2,9 @@
 dg-publish: true
 ---
 
-# Referencias Tierra Plana en Media
+# Referencias Tierra Plana en Medios
 
-La Tierra plana es un elemento más usado de lo que uno cree en novelas, películas, series de televisión y videojuegos. Lo que ocurre es que no se suele decir textualmente "tierra plana" ya que se asocia a algo falso y descalificativo, términos comunes son hacer guiños a la no percepción de la rotación terrestre y la curvatura o esfericidad. Y referencias al cielo como un domo, bóveda o firmamento, muchas veces mencionado en inglés como skydome, dome, vault, firmament o Heavens para el cielo espiritual. También es destacable la palabra reino "Kingdom" o "Freedom", relacionadas con domo o dominio.
+La Tierra plana es un elemento más usado de lo que uno cree en novelas, películas, series de televisión y videojuegos. Lo que ocurre es que no se suele decir textualmente "tierra plana" ya que se asocia a algo falso y descalificativo, términos comunes son hacer guiños a la no percepción de la rotación terrestre y la curvatura o esfericidad. Y referencias al cielo como un domo, bóveda o firmamento, muchas veces mencionado en inglés como "skydome", "dome", "vault", "firmament" o "Heavens" para el cielo espiritual. También es destacable la palabra reino "Kingdom" o "Freedom", relacionadas con domo o dominio.
 
 Aquí un listado de referencias:
 

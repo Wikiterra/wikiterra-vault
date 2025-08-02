@@ -1,7 +1,6 @@
 ---
 dg-publish: true
 ---
-
 # Modelos de La Tierra propuestos
 
 Un modelo es el consenso de un grupo de personas a través del método científico para explicar la realidad, sin embargo pueden haber variaciones o diferencia de pensamientos dentro de un mismo modelo. 
