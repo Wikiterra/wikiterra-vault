@@ -14,7 +14,6 @@ Típicamente cuando nos referimos al horizonte, pensamos en el horizonte terrest
 >
 > ## Horizonte con puesta de Sol
 
-
 Este límite físico se forma en torno al observador y genera una línea de visión máxima entre dos medios de separación, la cual se denomina línea del horizonte u horizonte. El horizonte, al ser un concepto óptico, se forma siempre en la superficie de separación entre el aire y el nivel del mar o el punto más lejano del terreno visible.
 
 El horizonte está muy ligado al concepto de [[visibilidad]], ya que según la altura del observador y las condiciones climatológicas las distancias máximas observadas variarán.
@@ -27,7 +26,6 @@ Existen dos tipos de horizonte: el horizonte geométrico, que depende de la geom
 
 El horizonte geométrico viene determinado por la geometría o forma de la superficie y es un puro cálculo matemático, nunca puede observarse en la realidad porque no interviene la óptica.
 
-
 #### Geometría plana
 
 - El caso más sencillo es sobre un plano, donde **no existe horizonte geométrico finito**.
@@ -35,7 +33,6 @@ El horizonte geométrico viene determinado por la geometría o forma de la super
 - Mirando en recto, el horizonte geométrico queda siempre a 90º. Y a medida que subes se mantiene.
 
 $$d_{geom, \ plane} \rightarrow \infty$$
-
 
 #### Geometría esférica
 
@@ -69,11 +66,13 @@ El horizonte óptico se expresa como un límite mixto:
 $$d_{optics} = min \left( d_{geom} \ , d_{vsibility} \right)$$
 
 donde:
+
 - $d_{optics}$: distancia al horizonte óptico
 - $d_{geom}$: distancia al horizonte geométrico
 - $d_{visibility}$: distancia máxima visible
 
 De forma genérica:
+
 - Si el medio es muy transparente → el límite lo fija la geometría.
 - Si el medio es turbio → el límite lo fija la visibilidad.
 - En medios refractivos → la refracción puede extender o reducir el alcance.
@@ -88,6 +87,7 @@ De la suma de estas interacciones se obtiene el **coeficiente de extinción** de
 $$\sigma(\lambda) = \frac{8\pi^3}{3N^2\lambda^4}\left( n^2 - 1 \right)^2$$
 
 Donde:
+
 - $\lambda$ = longitud de onda de la luz
 - $n$ = índice de refracción del gas
 - $N$ = densidad molecular
@@ -143,7 +143,6 @@ Considerando refracción atomsférica (con radio efectivo 16% más grande ~ 7390
 
 Por lo que se demuestra que la Tierra no es una superficie esférica. Y que además cumple los mismos efectos en una geometría plana.
 
-
 ## Ejemplo comparativo
 
 Un ejemplo muy típico para medir la distancia máxima al horizonte óptico es la fotografía
@@ -152,7 +151,6 @@ del Teide sacada desde Lanzarote (en este caso por [Gustavo Medina](https://www.
 En el modelo plano ambos horizontes coinciden, sin embargo en el modelo esférico hay que recurrir a índices de refracción altísimos (fuera del rango medible).
 
 ![Horizontes en modelos de Tierra](https://i.imgur.com/qOtMgua.png)
-
 
 ---
 
