@@ -15,6 +15,7 @@ node_modules/
 
 # obsidian
 # .obsidian/
+.obsidian/plugins/digitalgarden
 .obsidian/app.json
 .obsidian/appearance.json
 .obsidian/bookmarks.json
