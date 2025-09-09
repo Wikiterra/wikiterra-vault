@@ -3,17 +3,15 @@ dg-home: true
 dg-publish: true
 ---
 
-## **¡Bienvenido a WikiTerra!** 👋 
+# **¡Bienvenido a WikiTerra!** 👋
 
 **WikiTerra** es un bóveda o "vault" de artículos que tiene como fin explicar el funcionamiento de la naturaleza en especial tratando el tema cosmológico, para entender mejor el mundo que habitamos. ^intro1
 
 Navega por el panel lateral izquierdo para leer los artículos.
 
-
 > [!caption]
 > ![320](https://i.imgur.com/p6f9pFp.png)
 > Representación de onda resonante armónica, como el objetivo de esta web
-
 
 ## **Filosofía**
 
@@ -23,7 +21,7 @@ En esta wiki no pretende convencer a cerca de lo expuesto, se trata de intentar 
 
 Esta enciclopedia no sigue ideales y no busca tenerlos, pretende incentivar la curiosidad y el entendimiento del lugar que habitamos. Los argumentos expuestos pueden ir en contra de la versión oficial, ya que la verdad no tiene dueños.
 
-En esta enciclopedia se analizarán diferentes puntos de vista y modelos de la naturaleza intentando buscar los más realistas siguiendo el método científico, sin quitar valor a teorías que "oficialmente" son consideradas falsas. 
+En esta enciclopedia se analizarán diferentes puntos de vista y modelos de la naturaleza intentando buscar los más realistas siguiendo el método científico, sin quitar valor a teorías que "oficialmente" son consideradas falsas.
 
 Partiendo del razonamiento de que dos conclusiones completamente opuestas no pueden ser simultáneamente verdaderas, como, por ejemplo, que una esfera no puede percibirse como triangular, podemos entender la importancia de la perspectiva. En este sentido, dos razonamientos pueden tener validez según el punto de vista: una esfera puede verse como un círculo desde cierta perspectiva.
 
@@ -36,4 +34,3 @@ El objetivo principal de WikiTerra es entender el lugar físico que habitamos, p
 Sabemos que la naturaleza depende de lo que pensamos, es decir el pensamiento nuestra mente puede cambiar la forma de percibir las cosas, por eso se intentará no anteponer los pensamientos o hacer meras hipótesis, el objetivo es conseguir demostrar los hechos expuestos aplicando el método científico, con argumentación sólida y siguiendo un razonamiento lógico entendible para todos.
 
 Respecto a la ciencia, esta es la rama que surge de la aplicación del método científico. Sin embargo es sabido que la ciencia no es perfecta, es decir, un mismo experimento puede dar resultados diferentes según las consideraciones que se hagan o los axiomas que se establezcan. Por tanto cualquier otra fuente de estudio que arroje luz al entendimiento de la naturaleza es válida, la puerta está abierta para cualquier método que pueda ser comprobable.
-
