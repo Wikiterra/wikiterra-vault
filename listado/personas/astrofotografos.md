@@ -2,7 +2,7 @@
 dg-publish: true
 ---
 
-## Astrofotógrafos
+# Astrofotógrafos
 
 - [Alex Wides](https://alexwides.com/)
 - [starryearth (Juan Carlos Casado) - flickr](https://www.flickr.com/photos/starryearth)
@@ -12,4 +12,4 @@ dg-publish: true
 - [Uros Fink](https://www.instagram.com/urosfink/)
 - [Steven Ilsen](https://stevenilsen.no/)
 - [Belindashi](https://belindashi.com/)
-- 
+-

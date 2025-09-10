@@ -6,7 +6,7 @@ dg-publish: true
 
 El cielo es el lugar donde se encuentran los astros, estrellas, estrellas errantes y cuerpos en suspensión, si ordenamos por densidad se encuentra en la zona menos densa o arriba de la superficie terrestre.
 
-El cielo se le suele asociar con el concepto de [[domo-terrestre]] o semiesfera, aunque otros apuntan a una esfera celeste. 
+El cielo se le suele asociar con el concepto de [[domo-terrestre]] o semiesfera, aunque otros apuntan a una esfera celeste.
 
 Tiene un giro síncrono de Este a Oeste sobre el plano en torno a la estrella central, Polaris.
 

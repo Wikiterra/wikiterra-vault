@@ -2,7 +2,6 @@
 dg-publish:
 ---
 
-
 # Rebote ionosférico
 
 En el contexto del modelo de Tierra plana, el **rebote ionosférico** es interpretado como el fenómeno mediante el cual las ondas de radio de alta frecuencia (HF) se reflejan en la capa superior de la atmósfera, comúnmente conocida como el domo o firmamento, lo que permite que estas ondas viajen grandes distancias a lo largo de la superficie terrestre plana.

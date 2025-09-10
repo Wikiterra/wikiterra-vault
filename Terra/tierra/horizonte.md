@@ -153,7 +153,6 @@ En el modelo plano ambos horizontes coinciden, sin embargo en el modelo esféric
 
 ![Comparación de horizontes según modelo terrestre](https://i.imgur.com/aI2hoTg.png)
 
-
 ---
 
 ## Conclusión

@@ -8,4 +8,4 @@ La Tierra esférica es la creencia "científica" oficial impuesta por los Jesuit
 - Experimento de Eratóstenes: a la misma hora (en solsticio de verano) en diferentes lugares dos obeliscos uno tiene sombra y el otro no, esto solo es válido para rayos solares paralelos con un Sol separado millones de Kilómetros. Cuando en realidad los rayos solares son radiales al Sol y tienen una inclinación angular en la superficie de la Tierra.
 - Péndulo de Foucault: rotación de la Tierra. necesita un motor para mantenerse durante largos periodos los movimientos iniciales definen el resto de los movimientos
 - Experimento de Cavendish: medir la densidad de la Tierra.
-- Experimento de Michelson-Morley: vacío del espacio y 
+- Experimento de Michelson-Morley: vacío del espacio y

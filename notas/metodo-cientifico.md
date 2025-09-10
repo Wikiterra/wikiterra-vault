@@ -4,7 +4,7 @@ dg-publish: false
 
 # Método científico
 
-Una forma fiable de comprender la realidad es mediante el uso del método científico, haciendo uso de tu razonamiento y de sus sentidos. 
+Una forma fiable de comprender la realidad es mediante el uso del método científico, haciendo uso de tu razonamiento y de sus sentidos.
 
 Todo ser humano está condicionado por sus sentidos y su mente, racionalmente hablando por su mente y por su cuerpo. Por la tanto todo lo que observa y siente es producto de si mismo del propio ser, la realidad que percibe es la que siente.
 
@@ -15,8 +15,7 @@ La percepción del mundo que le rodea viene definido en cierto modo por quien es
 El desarrollo de la personalidad, sus gustos personales, sus aciertos, sus errores son los que condicionan el mundo en el que vive.
 Y ese mundo también se ve alterado por las acciones y pensamientos de cada uno de los seres vivos que forman el conjunto de la vida.
 
-
-Por tanto el mundo es una percepción mental y física, ahora para explicar el surgimiento de lo físico y lo mental se puede hacer de dos formas, pero que al final se simplifica en una. La primera explicación es que todo lo existe no tiene ningún fin concreto sino que es producto del azar que 
+Por tanto el mundo es una percepción mental y física, ahora para explicar el surgimiento de lo físico y lo mental se puede hacer de dos formas, pero que al final se simplifica en una. La primera explicación es que todo lo existe no tiene ningún fin concreto sino que es producto del azar que
 
 Libre albedrío y destino
 

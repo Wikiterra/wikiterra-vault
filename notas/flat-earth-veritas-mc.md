@@ -17,7 +17,9 @@ Newton spent pages upon pages of convoluted equations to try to prove his theory
 So in the end game of the last 500 years what we ended up with was a theory that required another theory that gave birth to a theory that was supported by yet another theory to be conclusively "proven" by a theory, and at no stage along the way has any concrete proof ever been offered, not so much as an iota of hard scientific method empirical evidence to support any of these cockamamie theories.Yet the world accepts them as fact.
 
 Fact is there is no globe earth. There is no gravity. There is no evolution.There are no extraterrestrial aliens. What there is is a level plane earth that is immovable and stationary, and that hard empirical scientific method evidence proves beyond the shadow of doubt as you will see in the following presentations.
+
 ## Research and Studies
+
 Below are sections of research and study by a variety of authors showing many details of scientific method evidence supporting the flat (level) earth.
 
 That the earth is flat was the common belief in all parts of the known world prior to the theory of heliocentrism (approx 500 years ago) and was still a hot topic well into the 50's (see the downloads section). It was not until a person by the name of Copernicus, a Jesuit trained astronomer, came along that the concept of a heliocentric universe was popularized. Heliocentricity is, and has always been, only a theory based on no observable facts or the means of verification of evidence supporting the theory.  
@@ -25,6 +27,7 @@ It is not a coincidense that a disproportionate amount of Jesuits are astronomer
 See below for the history of the Jesuit Order.
 
 ### Various author flat earth videos
+
 - [The Ultimate Litmus Test](https://www.bitchute.com/video/bSzE373D0ozI/)
 - [The Global Lie](https://www.bitchute.com/video/3MKzisNWGswJ/)
 - [Antarctica -We're Closed!](https://www.bitchute.com/video/ooWQBcduN5w2/)
@@ -73,7 +76,9 @@ See below for the history of the Jesuit Order.
 - [GPS Satellites Don't Exist](https://www.youtube.com/watch?v=qKdZQA9tA3E)
 - [Summary Proof of F E](https://www.youtube.com/watch?v=FXJeK9Lq9Ks)
 - [Airy's Failure animation](https://www.bitchute.com/video/zkOV8PDnM5xW/)
+
 ### Sun and Moon
+
 - [PROOF of a Close Sun](https://www.youtube.com/watch?v=8Wj3B8J0i-o)
 - [Night & Day at the same time!](https://www.bitchute.com/video/dqSDK9UOfXwA/)
 - [Equal Divine Opposites](https://www.youtube.com/watch?v=aXPLEJPiIu4&feature=youtu.be&fbclid=IwAR3BnC8GYqiBJSnMb5ivjvD38P3chsv8tZtUhB_94jWzTyFsf50_Hmn9Y8Y)
@@ -90,7 +95,8 @@ See below for the history of the Jesuit Order.
 - [The Sun & Moon Mystery](https://www.youtube.com/watch?v=7BAYBwH0mcI&feature=youtu.be)
 - [Lunar Eclipse](https://www.bitchute.com/video/ci4rgKJd6TCf/)
 
-### Truth is Stranger Than Fiction     
+### Truth is Stranger Than Fiction
+
 - [To Pastors Against F E](https://www.youtube.com/watch?v=wYQsf5dAVVQ&feature=youtu.be)
 - [They mock Flat Earth,but](https://www.bitchute.com/video/Qs6lbaIsn1U/)
 - [Escaping Scientism](https://www.youtube.com/watch?v=qIBxLnkkl6A)
@@ -111,6 +117,7 @@ See below for the history of the Jesuit Order.
 - [The Cult of Pythagoras](https://www.youtube.com/watch?list=PLykEf23rbpPOgTLI0pxZKgrR_V2tzD72P&v=9AdtSF-TpB0)
 
 ### ODD TV
+
 - [Flat Earth in 5 Minutes](https://www.bitchute.com/video/lzMBa9a0D9Hk/)
 - [Lower earth orbit only](https://www.bitchute.com/video/CuHo9RLY0CGZ/)
 - [Flat Earth Timeline](https://www.bitchute.com/video/UYQW2SUu8UVF/)
@@ -118,6 +125,7 @@ See below for the history of the Jesuit Order.
 - [The Case for Flat Earth](https://www.bitchute.com/video/cWQLRLaLFpVk/)
 
 ### Flat Earth Pastors
+
 - [Bible DOES say Flat Earth (Odle)](https://www.bitchute.com/video/xTT25oQkT0jt/)
 - [Wake Up Christians(Odle)](https://www.youtube.com/watch?v=GJCLHMk0OWs)
 - [FE & Lord's Prayer (VR)](https://www.youtube.com/watch?v=VTz8XRpKpF0&feature=youtu.be)
@@ -126,6 +134,7 @@ See below for the history of the Jesuit Order.
 - [Gov't docs prove FE(Odle)](https://www.bitchute.com/video/VZf2O4oNL71W/)
 
 ### Rob Skiba videos
+
 - [Why flat Earth is important...](https://www.bitchute.com/video/xTgReDMvJJhK/)
 - [The Flat Earth trump card](https://www.bitchute.com/video/QFhZ2q0CbmCx/)
 - [FE key to decript Bk of Enoch](https://www.youtube.com/watch?v=ZImfw4kBkC8)
@@ -134,6 +143,7 @@ See below for the history of the Jesuit Order.
 - [No ships Over Curve](https://www.youtube.com/watch?v=nYMiGyEbjIg)
 
 ### Videos by Eric Dubay
+
 - [The History of Flat Earth](https://www.bitchute.com/video/M5L5PBVisNvc/)
 - [The Greatest Lie of All Time](https://www.bitchute.com/video/IjXaYgr5QOuf/)
 - [200 Proofs Earth Not a Ball](https://www.bitchute.com/video/XvAwLc7FZm2z/)
@@ -150,6 +160,7 @@ See below for the history of the Jesuit Order.
 - [A Modern Day IQ Test](https://www.bitchute.com/video/YZRJUOLOFLCv/)
 
 ### Faking Space
+
 - [NASA faking Space](https://www.youtube.com/watch?v=_XjOGVHVC8Q)
 - [Faking ISS part 1](https://www.youtube.com/watch?v=3NCgnZCG68Y)
 - [Faking ISS part 2](https://www.youtube.com/watch?v=0kcc5UrlkMU)
@@ -167,8 +178,9 @@ See below for the history of the Jesuit Order.
 - [Vacuum of Space](https://www.youtube.com/watch?v=TyKnfMsgjV0)
 
 ### Bibles videos
-- [Battle of the Bibles ](https://www.youtube.com/watch?v=tNv-zzpIwBs)
-- [Changing the Word ](https://www.youtube.com/watch?v=RqBEuxGY7DI)
+
+- [Battle of the Bibles](https://www.youtube.com/watch?v=tNv-zzpIwBs)
+- [Changing the Word](https://www.youtube.com/watch?v=RqBEuxGY7DI)
 - [The Religious Spirit](https://www.youtube.com/watch?v=e6g8upg5FpE)
 - [Why the (KJV) Bible](https://www.youtube.com/watch?v=RDvVpwAbGAI&list=PLB_aNyWTPnWVxPA0b49RLNKah2z0bnI1P)
 - [Schnoebelen agrees, FLAT EARTH](https://www.youtube.com/watch?v=1OwPIVYTGt0)
@@ -176,6 +188,7 @@ See below for the history of the Jesuit Order.
 - [1599 Geneva Bible PDF](https://www.veritasmc.org/downloads/1599genevabible.pdf)
 
 ### Study Aids
+
 - [Flat Earth Bible Verses](http://www.veritasmc.org/febibleverses.html)- [Pillars/4 Corners of the earth](https://www.veritasmc.org/earthpillars.html)
 - [The Book of Enoch](http://www.bibliotecapleyades.net/enoch/enoch.html)- [The Book of Jasher](http://www.sacred-texts.com/chr/apo/jasher/)
 - [Globe Earth Math 666](https://www.veritasmc.org/666globe.html)- [Historical Origins of The Jesuits](https://www.bitchute.com/video/wpp91KtqdFVb/)
@@ -188,9 +201,11 @@ Bible believing Christians are left with no other option but to break out of the
 2Cor 10:3-4 - tells us to tear down false strongholds. The Bible is not ambiguous, it is crystal clear.
 
 ### The Lie: The Freemasons, and the Jesuit
+
 Well, why would such a lie be perpetrated, by whom and for what ultimate purpose? Most of these questions have been answered in the above video presentations, but there is yet one big piece of the puzzle missing, and that is what we will address next.
 
 The following material traces the history of Freemasonry and the Jesuits.  
+
 - [Masonic Origins](http://www.biblebelievers.org.au/masonic.htm), [History of the Jesuits](https://www.bitchute.com/video/0XXeb8gKypTn/), [Its the Jesuits!](https://tabublog.com/2015/11/23/its-not-the-jews-its-the-jesuits/)  
 These orient the reader as to what extreme these blood oaths are taken.
 
@@ -200,6 +215,7 @@ This will lead to the abolition of the UN as we know it and it's being replaced 
 ![](http://www.veritasmc.org/images/jesuitheirarchy.jpg)  
   
 ### Walter Veith, The Jesuits - The occult rulers behind the curtain
+
 - [The Jesuit Order Part 1](https://www.youtube.com/watch?v=vamL0Xa1eGU)
 - [The Jesuit Order Part 2](https://www.youtube.com/watch?v=GDSGjZCsyIE)
 - [The Wine Of Babylon](https://www.youtube.com/watch?v=l-VrL3ZBb48)
@@ -215,6 +231,7 @@ This will lead to the abolition of the UN as we know it and it's being replaced 
 - [Where SS info came from](https://www.youtube.com/watch?v=VN9rBKOdO1o)
 
 ### The Jesuit Vatican: steeped in the occult
+
 - [Pope Francis Declares Lucifer As God](https://www.bitchute.com/video/5QlcFr7PL3rI/)
 - [Pope Calls Jesus and the Bible a LIE!](https://www.youtube.com/watch?v=MMAPNYZg2ug)
 - [Francis calls Jesus a sinner](https://www.youtube.com/watch?v=zeMhwxQ2CRM)
@@ -240,7 +257,8 @@ This is a 2 part documentary on Martin Luther. Through it you can see what Rome'
 One world religion being formulated into reality: [Vatican's ecumenical movement](https://www.bitchute.com/video/i8kypcQGQoGt/)
 [One World Religion](https://www.youtube.com/watch?v=4K0E4DoRUqk&fbclid=IwAR1POrmyIJDcqt-5L-evSvsQlnXPW1xdvqPDDul6v86Fk1y_JSnW3onTMdg)
 
-### Johnny Cirucci & MigMag videos. [J.Cirucci website](http://johnnycirucci.com/)         
+### Johnny Cirucci & MigMag videos. [J.Cirucci website](http://johnnycirucci.com/)
+
 - [Jesuit Helio Deception](https://www.bitchute.com/video/xGoRCDtxp39V/)
 - [Illuminati Unmasked 1](https://www.youtube.com/watch?v=CJKR2v4L0qw)
 - [Illuminati Unmasked 2](https://www.youtube.com/watch?v=WEOeVKigaQs)
@@ -252,10 +270,12 @@ One world religion being formulated into reality: [Vatican's ecumenical movement
 - [The Rise of The Jesuits](https://www.youtube.com/watch?v=-x3d2JhMCdM)
 - [Todays' Roman Empire](https://www.youtube.com/watch?v=Ct84N110WCM)
 - [Zio-Jesuit connections](https://www.youtube.com/watch?v=ssSJwcMOiDA)
+
 ## Flat Earth Music
 
 ### Conspiracy Music Guru
-- [Alex's site](http://conspiracymusicguru.com/).               
+
+- [Alex's site](http://conspiracymusicguru.com/).
 - [No Photographs of Earth!](https://www.bitchute.com/video/WNIFW2Hvgbya/)
 - [Nasa faking everything](https://www.bitchute.com/video/XT6SpGZrG8b6/)
 - [Puppet Show](https://www.bitchute.com/video/BWDFb5Bn1mff/)
@@ -267,18 +287,21 @@ One world religion being formulated into reality: [Vatican's ecumenical movement
 - [I Told You So](https://www.bitchute.com/video/wunfAHFU2z2A/)
 
 ### Amber Plaster
+
 - [HELLO Flat Earth](https://www.youtube.com/watch?v=7OM5YMNr9Ck)
 - [Star Trails](https://www.youtube.com/watch?v=Lyy9SbR5LW8)
 - [Earth Not A Globe](https://www.youtube.com/watch?v=kl3kA60gDA8)
 - [Geocentric](https://www.youtube.com/watch?v=q9syywtUHkk&feature=share&fbclid=IwAR1JggPkCscmfAKUg_ovIz-JuS-rdc0h-7xqf2C5RbwgoUxBNBAdethL7-s)
 
 ### Indiejestion
+
 - [The Earth Is Flat](https://www.youtube.com/watch?v=nfMdJ58Qa0E)
 - [Mind Control to Major Tom](https://www.youtube.com/watch?v=164YdQvRDgE)
 - [F E Parodies--I Will Survive](https://www.youtube.com/watch?v=nl9DGLc7i4Y)
 - [Walking on the Moon](https://www.youtube.com/watch?v=3m_b1fjPSQU)
 
-### Flat Earth Music: various authors               
+### Flat Earth Music: various authors
+
 - [I Can See for Miles - The Who](https://www.youtube.com/watch?v=ft1C0ftFtz4)
 - ["I Can See for Miles - The Who" FE & all that jazz](https://www.youtube.com/watch?v=oWqjXZHkzq4)
 - [Cartoon Ball](https://www.youtube.com/watch?v=QpXSQDVqzsA)
@@ -302,6 +325,7 @@ One world religion being formulated into reality: [Vatican's ecumenical movement
 - [Flat To The Bone](https://www.youtube.com/watch?v=rSLk3f93o7M&fbclid=IwAR3-p-uXlxdgT6VkIUTRQnZeJKoH1KiaQiywwzwceZuQhrszodBO58Aml4U)
 
 ## And Beyond
+
 The above image is modeled after the "Hebrew Concept of the Universe" that we had modified to more acurately depict what the Bible says. (see FE Bible verses in Study Aids) .  
 The thing with the above image though is that it only represents a cut away view, a type of amphitheatre in order to give you, the reader, a view of the workings of the cosmology. In reality this is a closed system with this image's other half closing upon itself encapsulated within a body of water (waters above and waters below - Gen 1), with the pillars sitting on it's bottom.(see Pillars/4 Corners of the earth in Study Aids)  
 So, in essence we are living within a closed system that is itself surrounded by a ball of water. We live IN a ball not ON one (explained further in the "pillars" link above). The outside envelope of this ball of water is made of a type of heavenly crystal. (References below)
@@ -313,6 +337,7 @@ We live on a level motionless earth with a domed firmament set on foundations an
 And that leads us to the next part of understanding Creation and to be able to situate/place all of this in a context that is easy to understand. Some time ago we wrote an article called [The Eternal Now](http://www.veritasmc.org/lessons/lesson36.html), which was some time before the flat earth resurgence was revealed to us which put the pieces of the puzzle together for it all to make perfect sense and leaves no ambiguity.
 
 ## Time (Past, Future, and Present explained)
+
 The life we live is governed by two undeniable facts; we have The Past and The Future, but what is missing is The Present. There is no such thing as The Present in our life for as soon as something *IS* it is instantaneously relegated to The Past. The Present (eternity) is where God lives, it is a place that is void of The Past and The Future. Eternity has no time, it simply IS. "And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you." - Exo 3:14 God spoke to Moses in The Present tense. Jesus used the same tense when adressering the Pharisees:"Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am."- John 8:58 These statements transcend time, which is why the Pharisees just didn't "get it".
 
 The enclosed crystal ball inside which He has placed the flat earth with it's domed structure is where time exists with it's limits. It is our contention that there is, however, one element of The Present that does exist in our time and that element is the sun. According to the book of Enoch (see Study Aids) the sun is comprised of air, water and fire, and we believe that the type of fire in the sun is the same as the living fire that surrounds the throne of God as described in the book of Enoch and elsewhere in the Bible (see below). That is why the sun has never waned or dimmed in the thousands of years that it has existed, it is made of living fire.
@@ -324,6 +349,7 @@ Now while all this movement in different directions is going on at breakneck spe
 Below is the Gleason Map of the flat earth dated (by library stamp) to 1892. It is a top view, and what is described in Isaiah 40:22. It is commonly called "the flat earth map".  
 
 ## World Health Organization
+
 Notice that on all the world's most important logos the flat earth map is the design used and that they are to a one surrounded by a laurel wreath crown. The laurel wreath crown represents the power of Rome. It is putting the ruling Ceasars in plain sight - Rome and The Jesuit Order; the men in black behind the curtain who control it all.
 
 It is not that the truth is not known, it is that the truth has been intentionally hidden from the masses in order to control them, and keep them away from God. Flat Earth is the death of: the heliocentric solar system, evolution, dinosaurs, multiple galaxies, alien species, space travel and everything associated with it (Freemason NASA, JAXSA, astronomical societies, Jesuit university space/astronomy programs, etc).
@@ -337,33 +363,34 @@ And he shewed me a pure river of water of life, clear as crystal, proceeding out
 
 "And the likeness of the firmament upon the heads of the living creature was as the colour of the terrible crystal, stretched forth over their heads above."" - Eze 1:22
 
-"And above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne was the likeness as the appearance of a man above upon it. 
+"And above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne was the likeness as the appearance of a man above upon it.
 And I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about.  
 As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell upon my face, and I heard a voice of one that spake." - Eze 1:26-28
 
 "Then I beheld, and lo a likeness as the appearance of fire: from the appearance of his loins even downward, fire; and from his loins even upward, as the appearance of brightness, as the colour of amber. (for more on this see The Book of Enoch in Study Aids)" - Eze 8:2
 
 Flat Earth Disclosure: Early Flat Earth PDF book and pamphlet downloads.
+
 - "Zetetic Astronomy Earth Not a Globe" by Samuel Rowbothan (aka Parallax) (1865)
 - "Terra firma : the earth not a planet," By Scott, David Wardlaw (1901)
 - "One hundred proofs that the earth is not a globe" by William Carpenter (1886)
-- and others. By clicking on the link it will open in another window and you can download these important materials for free. [Flat Earth Resources Downloads](https://flatearthdisclosure.wordpress.com/flat-earth/flat-earth-resources-downloads/) 
+- and others. By clicking on the link it will open in another window and you can download these important materials for free. [Flat Earth Resources Downloads](https://flatearthdisclosure.wordpress.com/flat-earth/flat-earth-resources-downloads/)
 - An additional source for flat earth books in PDF: [Resources For The Stationary Plane](https://savageplane.wordpress.com/2017/01/13/resources-for-the-stationary-plane/)
 - Flat Earth pamphlets from the turn of the century: [booklets and newsletters about FE](https://christianflatearthministry.org/old-booklets/)
-- 108 classical FE books in one .zip file download : [108 classical FE books](https://www.veritasmc.org/downloads/108febooks.zip) 
+- 108 classical FE books in one .zip file download : [108 classical FE books](https://www.veritasmc.org/downloads/108febooks.zip)
 - YouTube 2nd edition of Thomas Winship's FE book: [Zetetic Cosmogony ~ Flat Earth](https://www.youtube.com/watch?v=p_O0yY5L1J0)
-- The following are individual downloads: 
-- Chart and Compass Zetetic Society (1887) - [Chart and Compass](https://archive.org/stream/chart_and_compass-london_zetetic_society_201610/chart_and_compass-london_zetetic_society#page/n0/mode/2up) 
-- The Shape of the World - A.E.Skellam (1893) - [The Shape of the World](https://www.dropbox.com/s/90s0qkyvy7ge2s0/Shape%20of%20the%20World%2C%20The%20%28A.E.%20Skellam%29.pdf?dl=0) 
-- Compare Startling Discrepancies - Surveyor (1895) - [Startling Discrepancies](https://www.veritasmc.org/downloads/discrepancies.pdf) 
-- Astronomy & the Bible Reconciled - VOX (1897) - [Reconciled, Astronomy/Bible](https://archive.org/stream/vox-astronomy_and_the_bible_reconciled#page/n0/mode/2up) 
-- THE EARTH STANDS FAST By Professor Carl Schoepffer (1900) - [THE EARTH STANDS FAST](https://archive.org/details/earthstandsfast00schoiala/page/n2) 
-- The enlightenment of the world - John G. Abizaid (1914) - [Enlightenment of the World](https://archive.org/details/enlightenmentofw00abiz/page/n1) 
-- Kings Dethroned Gerard Hickson(1922): [Kings Dethroned](https://archive.org/details/kingsdethronedhi00hickrich/page/n4) 
-- Lady Blount Flat Earth Extracts (1921) : [Lady Blount FE Extracts](https://archive.org/details/lady_blount-extracts_from_lectures) 
+- The following are individual downloads:
+- Chart and Compass Zetetic Society (1887) - [Chart and Compass](https://archive.org/stream/chart_and_compass-london_zetetic_society_201610/chart_and_compass-london_zetetic_society#page/n0/mode/2up)
+- The Shape of the World - A.E.Skellam (1893) - [The Shape of the World](https://www.dropbox.com/s/90s0qkyvy7ge2s0/Shape%20of%20the%20World%2C%20The%20%28A.E.%20Skellam%29.pdf?dl=0)
+- Compare Startling Discrepancies - Surveyor (1895) - [Startling Discrepancies](https://www.veritasmc.org/downloads/discrepancies.pdf)
+- Astronomy & the Bible Reconciled - VOX (1897) - [Reconciled, Astronomy/Bible](https://archive.org/stream/vox-astronomy_and_the_bible_reconciled#page/n0/mode/2up)
+- THE EARTH STANDS FAST By Professor Carl Schoepffer (1900) - [THE EARTH STANDS FAST](https://archive.org/details/earthstandsfast00schoiala/page/n2)
+- The enlightenment of the world - John G. Abizaid (1914) - [Enlightenment of the World](https://archive.org/details/enlightenmentofw00abiz/page/n1)
+- Kings Dethroned Gerard Hickson(1922): [Kings Dethroned](https://archive.org/details/kingsdethronedhi00hickrich/page/n4)
+- Lady Blount Flat Earth Extracts (1921) : [Lady Blount FE Extracts](https://archive.org/details/lady_blount-extracts_from_lectures)
 - Collapse of the Globe Theory- Lady Blount : - [Collapse of the Globe](https://www.veritasmc.org/downloads/collapseglobetheory.pdf)
-- S.G.Fowler - Truth the earth is flat (1952) - [The Earth is Flat](https://www.veritasmc.org/downloads/earthisflat.pdf) 
+- S.G.Fowler - Truth the earth is flat (1952) - [The Earth is Flat](https://www.veritasmc.org/downloads/earthisflat.pdf)
 - Heaven & Earth - Gabrielle Henriet (1958) - [Heaven & Earth](https://archive.org/stream/gabrielle_henriet-heaven_and_earth#page/n1/mode/2up)
-- Practical Arithmetic by Charles Davies (1863): [Practical Arithmetic](https://openlibrary.org/works/OL1526835W/Practical_arithmetic) 
+- Practical Arithmetic by Charles Davies (1863): [Practical Arithmetic](https://openlibrary.org/works/OL1526835W/Practical_arithmetic)
 - Auguste Picard 1931 Popular Mechanics (1pg): [1931 Popular Mechanics](https://archive.org/stream/1931PopularMechanixAugustePiccardTenMilesHighInAnAirtightBall/1931%20Popular%20Mechanix%20auguste_piccard-ten_miles_high_in_an_airtight_ball)
 - Auguste Picard 1931 : read whole thing on line - [Scrollable copy](https://books.google.ca/books?id=BCgDAAAAMBAJ&printsec=frontcover&source=gbs_ge_summary_r&redir_esc=y#v=onepage&q&f=true)
