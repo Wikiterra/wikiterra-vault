@@ -3,16 +3,21 @@
 Las **constelaciones** son grupos de estrellas que, vistas desde la Tierra, forman patrones imaginarios en el cielo nocturno. Estos patrones suelen representar figuras, animales, objetos o seres mitológicos según las diferentes culturas y civilizaciones. Las constelaciones han sido utilizadas desde tiempos antiguos para la navegación, la agricultura y como parte integral de diversas tradiciones y mitologías.
 
 > [!infobox]+ Constelación la Osa Mayor
+>
 > # Constelación de la Osa Mayor
+>
 > ![osa-mayor|cover small](https://upload.wikimedia.org/wikipedia/commons/8/86/UrsaMajorCC.jpg)
 
 ## Historia
+
 El concepto de constelaciones se remonta a la antigüedad. Civilizaciones como la babilónica, egipcia, griega, china y maya desarrollaron sus propias constelaciones y sistemas astronómicos. Los griegos, en particular, influyeron en el sistema moderno de constelaciones, que fue documentado por el astrónomo Ptolomeo en su obra "Almagesto". Este catálogo incluyó 48 constelaciones que sirvieron de base para la astronomía occidental.
 
 ## Definición Moderna
+
 En 1922, la Unión Astronómica Internacional (UAI) formalizó las constelaciones al definir 88 constelaciones oficiales que cubren toda la esfera celeste. Estas constelaciones se utilizan como un sistema de referencia para identificar y localizar estrellas y otros objetos celestes en el cielo.
 
 ## Constelaciones destacadas
+
 Algunas constelaciones son especialmente conocidas y reconocibles, como **Orión**, **Ursa Major** (Osa Mayor), **Scorpius** (Escorpión) y **Cassiopeia**. Muchas de ellas contienen estrellas brillantes o cúmulos estelares que son fácilmente visibles a simple vista.
 
 ### Constelaciones del Zodíaco
@@ -77,7 +82,6 @@ Las **constelaciones del zodíaco** son un grupo de 12 constelaciones situadas a
 > ![Reloj astrológico de la Torre dell'Orologio](https://i.imgur.com/Hb4QkJi.jpeg)
 > Reloj astrológico de la Torre dell'Orologio
 
-
 ### Importancia Cultural y Astrológica
 
 En la astrología occidental, cada una de estas constelaciones corresponde a un signo zodiacal, y se dice que la posición del Sol en una de estas constelaciones en el momento del nacimiento de una persona influye en su carácter y destino. Estas fechas astrológicas se basan en la posición del Sol en la eclíptica hace unos 2000 años y se utilizan universalmente en la astrología occidental, independientemente de la latitud del observador.
@@ -87,14 +91,17 @@ En la astrología occidental, cada una de estas constelaciones corresponde a un 
 Aunque la visibilidad de estas constelaciones varía según la latitud y la época del año, el zodíaco en sí está basado en la trayectoria del Sol a lo largo de la eclíptica, que es consistente en todo el mundo. Por tanto, las fechas astrológicas de cada signo zodiacal no dependen de la latitud.
 
 ## Uso Cultural y Científico
+
 A lo largo de la historia, las constelaciones han desempeñado un papel crucial en la orientación nocturna y la elaboración de calendarios. En la actualidad, aunque su valor práctico en la navegación ha disminuido debido a los avances tecnológicos, siguen siendo de gran importancia en la enseñanza de la astronomía y en la observación astronómica amateur.
 
 ## Mitología
+
 Cada cultura ha asociado sus propias historias y mitos con las constelaciones. En la mitología griega, por ejemplo, las constelaciones a menudo representan personajes y criaturas de sus leyendas, como Orión, el cazador, o Andrómeda, la princesa encadenada.
 
 Las constelaciones continúan siendo una fascinación tanto para astrónomos profesionales como para observadores del cielo en todo el mundo, conectando la ciencia con la historia y la cultura.
 
 ## Referencias
+
 - [Constelación - Wikipedia](https://es.wikipedia.org/wiki/Constelaci%C3%B3n)
 - [Visual constellations - All the Sky](https://www.allthesky.com/constellations/visualconstellations.html)
 - [Constelaciones - Planetario](https://www.planetario.net/constelaciones/)

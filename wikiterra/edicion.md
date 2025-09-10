@@ -9,7 +9,8 @@ dg-publish: false
 > [!note] La opción de editar está desactivada, se necesitan conocimiento de git, GitHub y markdown.
 
 El método de edición sería el siguiente:
-1. Pinchar en el botón de editar al final de cada artículo o hacer un "fork" o "bifurcación" del [vault de Wikiterra](https://github.com/Wikiterra/wikiterra-vault/compare) 
+
+1. Pinchar en el botón de editar al final de cada artículo o hacer un "fork" o "bifurcación" del [vault de Wikiterra](https://github.com/Wikiterra/wikiterra-vault/compare)
 2. Realizar los cambios y mejoras correspondientes en los artículos.
 3. Solicitar cambios en el repositorio haciendo una "Pull Request".
 
@@ -18,6 +19,7 @@ Los artículos están escritos en formato [[markdown]] un lenguaje de marcado mu
 ### Normas de edición
 
 Hacer una enciclopedia a modo wiki no es una tarea sencilla.
+
 1. La información ha de ser objetiva, hay que intentar dejar de lado los aspectos subjetivos y escribir usando evidencias que sean comprobables y empíricas.
 2. Escribir con adecuación al tema y sentido.
 3. No cometer errores ortográficos, ni gramáticos.

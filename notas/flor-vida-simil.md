@@ -15,18 +15,19 @@ La flor de la vida es un conjunto de círculos con los centros alineados separad
 <iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://www.youtube.com/embed/0AktguOn6QI" allowfullscreen></iframe>
 
 ## Análisis de la flor de la vida
+
 - Círculos = círculos internos + círculos externos = 37 + 1 = 38
-	- Círculos internos = centros totales = 37
-	- Círculos externos = 1 (centro compartido)
+   	- Círculos internos = centros totales = 37
+   	- Círculos externos = 1 (centro compartido)
 - Alineación de centros:
-	- Centros en vertical (7 columnas): 4, 5, 6, 7, 6, 5, 4 = 37
-	- Centros en horizontal (13 filas): 1, 2, 3, 4, 3, 4, 3, 4, 3, 4, 3, 2, 1 = 37
-	- Centros en oblicuo izq /dcho (7 oblicuos): 4, 5, 6, 7, 6, 5, 4 = 37
+   	- Centros en vertical (7 columnas): 4, 5, 6, 7, 6, 5, 4 = 37
+   	- Centros en horizontal (13 filas): 1, 2, 3, 4, 3, 4, 3, 4, 3, 4, 3, 2, 1 = 37
+   	- Centros en oblicuo izq /dcho (7 oblicuos): 4, 5, 6, 7, 6, 5, 4 = 37
 - Pétalos, triángulos, elipses = 30 + 30 +30 = 90
-	- Por círculo: 6 pétalos, 6 triángulos, 6 elipses
-	- Pétalos 
-		- En vertical (7 columnas): 3, 4, 5, 6, 5, 4, 3 = 30
-		- En oblicuo izq /dcho (7 líneas): 3, 4, 5, 6, 5, 4, 3 = 30
+   	- Por círculo: 6 pétalos, 6 triángulos, 6 elipses
+   	- Pétalos
+      		- En vertical (7 columnas): 3, 4, 5, 6, 5, 4, 3 = 30
+      		- En oblicuo izq /dcho (7 líneas): 3, 4, 5, 6, 5, 4, 3 = 30
 - Figura entre borde de círculos internos y el externo:
 		- Elipse con 3 concavidades: 4
 

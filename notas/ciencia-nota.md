@@ -16,6 +16,7 @@ Por tanto la verdad o el entendimiento de la naturaleza no depende del pensamien
 
 Por ejemplo: un caso de policía, varias investigaciones independientes pueden arrojar conclusiones diferentes, sin embargo los hechos fueron unos en concreto.
 Supongamos que un grupo de cuatro personas atracó un banco las investigaciones policiales deberían estar enfocadas a saber lo ocurrido y atrapar a los ladrones responsables de ese altercado. Pero aquí se pueden dar un montón de combinaciones, la policía puede estar equivocada por muchos motivos saber exactamente lo ocurrido es muy difícil y puede que:
+
 1) les falten datos para saber quiénes son
 2) se equivoquen con un ladrón por el parecido con físico con otra persona
 3) los atrapen pero no consigan saber quién está detrás de ese robo
