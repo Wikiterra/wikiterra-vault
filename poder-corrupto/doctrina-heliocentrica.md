@@ -2,7 +2,7 @@
 dg-publish: false
 ---
 
-# Científicos del modelo Heliocéntrico
+# Doctrina Heliocéntrica
 
 - Albert Einstein
 - Bill Nye
