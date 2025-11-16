@@ -2,13 +2,13 @@
 dg-publish: false
 ---
 
-Las wikis se pueden genéricamente entre **dinámica** con un servidor que se encarga de registrar los cambios de usuarios y **estática** que simplemente muestra la información.
+Las wikis se pueden clasificar eb dos tipos: **dinámicas** con un servidor que se encarga de registrar los cambios de usuarios y **estáticas** que simplemente muestra la información.
 
 # Wiki dinámica vs Wiki estática
 
 Comparar una wiki dinámica hecha con MediaWiki versus una wiki estática escrita y generada desde Obsidian.md implica evaluar varios factores, como la facilidad de uso, la administración, las características, el rendimiento y los costos. Aquí te dejo un desglose de los pros y contras de cada opción:
 
-### Wiki dinámica escrita desde MediaWiki
+### Wiki dinámica con MediaWiki
 
 **Pros:**
 
@@ -25,7 +25,7 @@ Comparar una wiki dinámica hecha con MediaWiki versus una wiki estática escrit
 3. **Curva de aprendizaje:** Puede ser complicado para usuarios no técnicos aprender a utilizar y administrar MediaWiki de manera efectiva.
 4. Diseñado para ser editado a través de su interfaz web
 
-### Wiki estática escrita desde Obsidian.md + plugin Obsidian Digital Garden
+### Wiki estática con Obsidian Digital Garden
 
 **Pros:**
 
@@ -44,4 +44,4 @@ Comparar una wiki dinámica hecha con MediaWiki versus una wiki estática escrit
 
 ### Conclusión
 
-La elección entre MediaWiki y una wiki estática en Obsidian.md depende de las necesidades específicas del proyecto. Si se requiere colaboración en tiempo real, funcionalidades avanzadas y control detallado de acceso, MediaWiki es la mejor opción. Sin embargo, si se busca una solución simple, fácil de desplegar y mantener, con menos necesidades de funcionalidades avanzadas, una wiki estática con Obsidian.md y Obsidian Digital Garden puede ser más adecuada.
+La elección entre MediaWiki y una wiki estática desde Obsidian.md depende de las necesidades específicas del proyecto. Si se requiere colaboración en tiempo real, funcionalidades avanzadas y control detallado de acceso, MediaWiki es la mejor opción. Sin embargo, si se busca una solución simple, fácil de desplegar y mantener, con menos necesidades de funcionalidades avanzadas, una wiki estática con Obsidian.md y Obsidian Digital Garden puede ser más adecuada.

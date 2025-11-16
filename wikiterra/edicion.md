@@ -1,20 +1,22 @@
 ---
-dg-publish: false
+dg-publish: true
 ---
 
 # Wikiterra edición
 
 > También se puede colaborar a través del [grupo de Telegram](https://t.me/+FrnHAynHpXxlNWNk)
 
-> [!note] La opción de editar está desactivada, se necesitan conocimiento de git, GitHub y markdown.
+> [!note] Por ahora para editar hay que hacerlo desde la [bóveda o vault de WikiTerra](https://github.com/Wikiterra/wikiterra-vault) escrito en markdown para Obsidian.md
 
+Los artículos están escritos en formato [[markdown]] un lenguaje de marcado muy sencillo. Por tanto hay que conocer la sintaxis para poder editar.
+
+<!--
 El método de edición sería el siguiente:
 
 1. Pinchar en el botón de editar al final de cada artículo o hacer un "fork" o "bifurcación" del [vault de Wikiterra](https://github.com/Wikiterra/wikiterra-vault/compare)
 2. Realizar los cambios y mejoras correspondientes en los artículos.
 3. Solicitar cambios en el repositorio haciendo una "Pull Request".
-
-Los artículos están escritos en formato [[markdown]] un lenguaje de marcado muy sencillo. Por tanto hay que conocer la sintaxis para poder editar.
+-->
 
 ### Normas de edición
 
