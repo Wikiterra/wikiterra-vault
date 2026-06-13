@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"type":"text","text":"La chamana Pachita  era capaz de materializar un órgano en su mano, conéctandose a esta fuente, a su chispa y a la gran fuente. Y proyectaba una sombra superpuesta desde los niveles multidimensionales que generaba la creación material.\n\nEste mundo que estamos que experimentamos es infinito, pero como colectivo vibra de forma tan baja actua como una malla ","id":"d0ef2e216c2f2693","x":-121,"y":-732,"width":440,"height":352},
+		{"type":"link","url":"https://youtu.be/L7XvjjITcrc?t=1971","id":"53965ce4df77be88","x":-786,"y":-735,"width":640,"height":360},
+		{"type":"text","text":"Árbol de la vida = Sistema de proyección holográfica","id":"ff19c0b25099eb91","x":349,"y":-475,"width":290,"height":100},
+		{"type":"text","text":"Ilusión = Proyección de luz\n\n\"Todo es luz\"","id":"37aa9e9250bcd281","x":336,"y":-732,"width":303,"height":95},
+		{"type":"text","text":"Yo soy una proyección de consciencia y mi maestro en esta vida son mis propios sueños.","id":"1cc9a15a658cfe4a","x":339,"y":-628,"width":300,"height":145},
+		{"type":"text","text":"**Materia**","id":"80f5f1918e8b3af2","x":424,"y":-270,"width":140,"height":120,"color":"#884302"},
+		{"type":"text","text":"**Luz**\n\nNuestra consciencia es una luz pura que tiene potencialidad infinita como el origen.","id":"779296255e5dcc0e","x":-722,"y":-300,"width":305,"height":180,"color":"3"},
+		{"type":"text","text":"**Información**","id":"93b822f0d8a89114","x":-336,"y":-270,"width":180,"height":120,"color":"4"},
+		{"type":"text","text":"**Energía**\nShatik","id":"7889011a24c37c49","x":-57,"y":-270,"width":143,"height":120,"color":"5"},
+		{"type":"text","text":"**Plasma**","id":"239ad056b61fd775","x":184,"y":-270,"width":161,"height":120,"color":"6"}
+	],
+	"edges":[
+		{"id":"5826185b0b776cca","fromNode":"239ad056b61fd775","fromSide":"right","toNode":"80f5f1918e8b3af2","toSide":"left"},
+		{"id":"dd51bb93c3267efc","fromNode":"7889011a24c37c49","fromSide":"right","toNode":"239ad056b61fd775","toSide":"left"},
+		{"id":"7655dc87b8323f8c","fromNode":"779296255e5dcc0e","fromSide":"right","toNode":"93b822f0d8a89114","toSide":"left"},
+		{"id":"4d2cf46d375de6c8","fromNode":"93b822f0d8a89114","fromSide":"right","toNode":"7889011a24c37c49","toSide":"left"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{"dg-publish":true}
+	}
+}
